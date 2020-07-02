@@ -1,0 +1,990 @@
+Ransomware Name,Extensions,Extension Pattern,Ransom Note Filename(s),Comment,Encryption Algorithm,Also known as,Date Added/Modified,Decryptor,Info 1,Info 2,Screenshots,IOCs (Network Based Indicators),IOCs (Host-Based Indicators)
+.CryptoHasYou.,.enc,, YOUR_FILES_ARE_LOCKED.txt,,AES(256),,,,http://www.nyxbone.com/malware/CryptoHasYou.html,,https://www.google.de/search?tbm=isch&q=Ransomware+.CryptoHasYou.,,
+777,.777,"._[timestamp]_$[email]$.777
+e.g. ._14-05-2016-11-59-36_$ninja.gaiver@aol.com$.777",read_this_file.txt,,XOR,Sevleg,,https://decrypter.emsisoft.com/777,,,https://www.google.de/search?tbm=isch&q=Ransomware+777,,
+7ev3n,".R4A
+.R5A",,FILES_BACK.txt,,,7ev3n-HONE$T,,"https://github.com/hasherezade/malware_analysis/tree/master/7ev3n
+https://www.youtube.com/watch?v=RDNbH5HDO1E&feature=youtu.be","http://www.nyxbone.com/malware/7ev3n-HONE$T.html
+",,https://www.google.de/search?tbm=isch&q=Ransomware+7ev3n,,
+7h9r,.7h9r,,README_.TXT,,AES,,,,http://www.nyxbone.com/malware/7h9r.html,,https://www.google.de/search?tbm=isch&q=Ransomware+7h9r,,
+8lock8,.8lock8,,READ_IT.txt,Based on HiddenTear,AES(256),,,http://www.bleepingcomputer.com/forums/t/614025/8lock8-help-support-topic-8lock8-read-ittxt/,,,https://www.google.de/search?tbm=isch&q=Ransomware+8lock8,,
+AiraCrop,._AiraCropEncrypted,,How to decrypt your files.txt,related to TeamXRat,,,,,https://twitter.com/PolarToffee/status/796079699478900736,,https://www.google.de/search?tbm=isch&q=Ransomware+AiraCrop,,
+Al-Namrood,".unavailable
+.disappeared",,Read_Me.Txt,,,,,https://decrypter.emsisoft.com/al-namrood,,,https://www.google.de/search?tbm=isch&q=Ransomware+Al-Namrood,,
+Alcatraz Locker,.Alcatraz,,ransomed.html,,,,,,https://twitter.com/PolarToffee/status/792796055020642304,,https://www.google.de/search?tbm=isch&q=Ransomware+Alcatraz+Locker,,
+ALFA Ransomware,.bin,,README HOW TO DECRYPT YOUR FILES.HTML,Made by creators of Cerber,,,,,http://www.bleepingcomputer.com/news/security/new-alfa-or-alpha-ransomware-from-the-same-devs-as-cerber/,,https://www.google.de/search?tbm=isch&q=Ransomware+ALFA+Ransomware,,
+Alma Ransomware,random,random(x5),Unlock_files_randomx5.html,,AES(128),,,https://cta-service-cms2.hubspot.com/ctas/v2/public/cs/c/?cta_guid=d4173312-989b-4721-ad00-8308fff353b3&placement_guid=22f2fe97-c748-4d6a-9e1e-ba3fb1060abe&portal_id=326665&redirect_url=APefjpGnqFjmP_xzeUZ1Y55ovglY1y1ch7CgMDLit5GTHcW9N0ztpnIE-ZReqqv8MDj687_4Joou7Cd2rSx8-De8uhFQAD_Len9QpT7Xvu8neW5drkdtTPV7hAaou0osAi2O61dizFXibewmpO60UUCd5OazCGz1V6yT_3UFMgL0x9S1VeOvoL_ucuER8g2H3f1EfbtYBw5QFWeUmrjk-9dGzOGspyn303k9XagBtF3SSX4YWSyuEs03Vq7Fxb04KkyKc4GJx-igK98Qta8iMafUam8ikg8XKPkob0FK6Pe-wRZ0QVWIIkM&hsutk=34612af1cd87864cf7162095872571d1&utm_referrer=https%3A%2F%2Finfo.phishlabs.com%2Fblog%2Falma-ransomware-analysis-of-a-new-ransomware-threat-and-a-decrypter&canon=https%3A%2F%2Finfo.phishlabs.com%2Fblog%2Falma-ransomware-analysis-of-a-new-ransomware-threat-and-a-decrypter&__hstc=61627571.34612af1cd87864cf7162095872571d1.1472135921345.1472140656779.1472593507113.3&__hssc=61627571.1.1472593507113&__hsfp=1114323283,https://info.phishlabs.com/blog/alma-ransomware-analysis-of-a-new-ransomware-threat-and-a-decrypter,http://www.bleepingcomputer.com/news/security/new-alma-locker-ransomware-being-distributed-via-the-rig-exploit-kit/,https://www.google.de/search?tbm=isch&q=Ransomware+Alma+Ransomware,,
+Alpha Ransomware,.encrypt,,Read Me (How Decrypt) !!!!.txt,,AES(256),AlphaLocker,,http://download.bleepingcomputer.com/demonslay335/AlphaDecrypter.zip,http://www.bleepingcomputer.com/news/security/decrypted-alpha-ransomware-continues-the-trend-of-accepting-amazon-cards/,https://twitter.com/malwarebread/status/804714048499621888,https://www.google.de/search?tbm=isch&q=Ransomware+Alpha+Ransomware,,
+Alphabet,,,,Doesn't encrypt any files / provides you the key,,,,,https://twitter.com/PolarToffee/status/812331918633172992,,https://www.google.de/search?tbm=isch&q=Ransomware+Alphabet,,
+AMBA,.amba,,"ПРОЧТИ_МЕНЯ.txt
+READ_ME.txt","Websites only
+amba@riseup.net",,,,,https://twitter.com/benkow_/status/747813034006020096,,https://www.google.de/search?tbm=isch&q=Ransomware+AMBA,,
+Angela Merkel,.angelamerkel,,,,,,,,https://twitter.com/malwrhunterteam/status/798268218364358656,,https://www.google.de/search?tbm=isch&q=Ransomware+Angela+Merkel,,
+AngleWare,.AngleWare,,READ_ME.txt,,,,,,https://twitter.com/BleepinComputer/status/844531418474708993,,,,
+Angry Duck,.adk,,,Demands 10 BTC,,,,,https://twitter.com/demonslay335/status/790334746488365057,,https://www.google.de/search?tbm=isch&q=Ransomware+Angry+Duck,,
+Anony,,,,,,"Based on HiddenTear
+ngocanh",,,https://twitter.com/struppigel/status/842047409446387714,,https://www.google.de/search?tbm=isch&q=Ransomware+Anony,,
+Anubis,.coded,,Decryption Instructions.txt,EDA2,AES(256),,,,http://nyxbone.com/malware/Anubis.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Anubis,,
+Apocalypse,".encrypted
+.SecureCrypted
+.FuckYourData
+.unavailable
+.bleepYourFiles
+.Where_my_files.txt","[filename].ID-*8characters+countrycode[cryptservice@inbox.ru].[random7characters]
+*filename*.ID-[A-F0-9]{8}+countrycode[cryptcorp@inbox.ru].[a-z0-9]{13}","*.How_To_Decrypt.txt
+*.Contact_Here_To_Recover_Your_Files.txt
+*.Where_my_files.txt
+*.Read_Me.Txt
+*md5*.txt","decryptionservice@mail.ru
+recoveryhelp@bk.ru
+ransomware.attack@list.ru
+esmeraldaencryption@mail.ru
+dr.compress@bk.ru",,Fabiansomeware,,https://decrypter.emsisoft.com/apocalypse,http://blog.emsisoft.com/2016/06/29/apocalypse-ransomware-which-targets-companies-through-insecure-rdp/,,https://www.google.de/search?tbm=isch&q=Ransomware+Apocalypse,,
+ApocalypseVM,".encrypted
+.locked",,*.How_To_Get_Back.txt ,Apocalypse ransomware version which uses VMprotect,,,,http://decrypter.emsisoft.com/download/apocalypsevm,,,https://www.google.de/search?tbm=isch&q=Ransomware+ApocalypseVM,,
+ASN1,,,!!!!!readme!!!!!.htm,,,,,,https://malwarebreakdown.com/2017/03/02/rig-ek-at-92-53-105-43-drops-asn1-ransomware/,,,,
+AutoLocky,.locky,,"info.txt
+info.html",,,,,https://decrypter.emsisoft.com/autolocky,,,https://www.google.de/search?tbm=isch&q=Ransomware+AutoLocky,,
+Aw3s0m3Sc0t7,.enc,,,,,,,,https://twitter.com/struppigel/status/828902907668000770,,,,
+BadBlock,,,Help Decrypt.html,,,,,https://decrypter.emsisoft.com/badblock,http://www.nyxbone.com/malware/BadBlock.html,,http://www.nyxbone.com/images/articulos/malware/badblock/5.png,,
+BadEncript,.bript,,More.html,,,,,,https://twitter.com/demonslay335/status/813064189719805952,,https://www.google.de/search?tbm=isch&q=Ransomware+BadEncript,,
+BaksoCrypt,.adr,,,Based on my-Little-Ransomware,,,,,https://twitter.com/JakubKroustek/status/760482299007922176,https://0xc1r3ng.wordpress.com/2016/06/24/bakso-crypt-simple-ransomware/,https://www.google.de/search?tbm=isch&q=Ransomware+BaksoCrypt,,
+Bandarchor,.id-1235240425_help@decryptservice.info,.id-[ID]_[EMAIL_ADDRESS],HOW TO DECRYPT.txt,Files might be partially encrypted,AES(256),Rakhni,,,https://reaqta.com/2016/03/bandarchor-ransomware-still-active/,https://www.bleepingcomputer.com/news/security/new-bandarchor-ransomware-variant-spreads-via-malvertising-on-adult-sites/,https://www.google.de/search?tbm=isch&q=Ransomware+Bandarchor,,
+BarRax,.BarRax,,,Based on HiddenTear,,,,,https://twitter.com/demonslay335/status/835668540367777792,,,,
+Bart,".bart.zip
+.bart
+.perl",,"recover.txt
+recover.bmp","Possible affiliations with RockLoader, Locky and Dridex",,BaCrypt,,http://now.avg.com/barts-shenanigans-are-no-match-for-avg/,http://phishme.com/rockloader-downloading-new-ransomware-bart/,https://www.proofpoint.com/us/threat-insight/post/New-Bart-Ransomware-from-Threat-Actors-Spreading-Dridex-and-Locky,https://www.google.de/search?tbm=isch&q=Ransomware+Bart,,
+BitCryptor,.clf,,"
+","Has a GUI.
+CryptoGraphic Locker family. Newer CoinVault variant.",,,,https://noransom.kaspersky.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+BitCryptor,,
+BitStak,.bitstak,,,,Base64 + String Replacement,,,https://download.bleepingcomputer.com/demonslay335/BitStakDecrypter.zip,,,https://www.google.de/search?tbm=isch&q=Ransomware+BitStak,,
+BlackShades Crypter,.Silent,,"Hacked_Read_me_to_decrypt_files.html
+YourID.txt",,AES(256),SilentShade,,,http://nyxbone.com/malware/BlackShades.html,,https://www.google.de/search?tbm=isch&q=Ransomware+BlackShades+Crypter,,
+Blocatto,.blocatto,,,Based on HiddenTear,AES(256),,,http://www.bleepingcomputer.com/forums/t/614456/bloccato-ransomware-bloccato-help-support-leggi-questo-filetxt/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Blocatto,,
+Booyah,,,,EXE was replaced to neutralize threat,,Salam!,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Booyah,,
+Brazilian,.lock,,MENSAGEM.txt,Based on EDA2,AES(256),,,,http://www.nyxbone.com/malware/brazilianRansom.html,,http://www.nyxbone.com/images/articulos/malware/brazilianRansom/0.png,,
+Brazilian Globe,,.id-%ID%_garryweber@protonmail.ch,HOW_OPEN_FILES.html,,,,,,https://twitter.com/JakubKroustek/status/821831437884211201,,,,
+BrLock,,,,,AES,,,,https://www.proofpoint.com/us/threat-insight/post/ransomware-explosion-continues-cryptflle2-brlock-mm-locker-discovered,,https://www.google.de/search?tbm=isch&q=Ransomware+BrLock,,
+Browlock,,,,"no local encryption, browser only",,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Browlock,,
+BTCWare,.btcware,,#_HOW_TO_FIX_!.hta,Related to / new version of CryptXXX,,,,,https://twitter.com/malwrhunterteam/status/845199679340011520,,,,
+Bucbi,,"
+",,"no file name change, no extension",GOST,,,,http://researchcenter.paloaltonetworks.com/2016/05/unit42-bucbi-ransomware-is-back-with-a-ukrainian-makeover/,,https://www.google.de/search?tbm=isch&q=Ransomware+Bucbi,,
+BuyUnlockCode,,(.*).encoded.([A-Z0-9]{9}),BUYUNLOCKCODE.txt,Does not delete Shadow Copies,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+BuyUnlockCode,,
+Central Security Treatment Organization,.cry,,"!Recovery_[random_chars].html
+!Recovery_[random_chars].txt",,,,,,http://www.bleepingcomputer.com/forums/t/625820/central-security-treatment-organization-ransomware-help-topic-cry-extension/,,https://www.google.de/search?tbm=isch&q=Ransomware+Central+Security+Treatment+Organization,,
+Cerber,".cerber
+.cerber2
+.cerber3",,"# DECRYPT MY FILES #.html
+# DECRYPT MY FILES #.txt
+# DECRYPT MY FILES #.vbs
+# README.hta
+_{RAND}_README.jpg
+_{RAND}_README.hta
+_HELP_DECRYPT_[A-Z0-9]{4-8}_.jpg
+_HELP_DECRYPT_[A-Z0-9]{4-8}_.hta
+_HELP_HELP_HELP_%random%.jpg
+_HELP_HELP_HELP_%random%.hta
+_HOW_TO_DECRYPT_[A-Z0-9]{4-8}_.jpg
+_HOW_TO_DECRYPT_[A-Z0-9]{4-8}_.hta",,AES,,,,https://blog.malwarebytes.org/threat-analysis/2016/03/cerber-ransomware-new-but-mature/,https://community.rsa.com/community/products/netwitness/blog/2016/11/04/the-evolution-of-cerber-v410,https://www.google.de/search?tbm=isch&q=Ransomware+Cerber,,
+CerberTear,,,,,,,,,https://twitter.com/struppigel/status/795630452128227333,,https://www.google.de/search?tbm=isch&q=Ransomware+CerberTear,,
+Chimera,".crypt
+4 random characters, e.g., .PzZs, .MKJL",,"YOUR_FILES_ARE_ENCRYPTED.HTML
+YOUR_FILES_ARE_ENCRYPTED.TXT
+<random>.gif",,,,,http://www.bleepingcomputer.com/news/security/chimera-ransomware-decryption-keys-released-by-petya-devs/,https://blog.malwarebytes.org/threat-analysis/2015/12/inside-chimera-ransomware-the-first-doxingware-in-wild/,,https://www.google.de/search?tbm=isch&q=Ransomware+Chimera,,
+CHIP,".CHIP
+.DALE",,"CHIP_FILES.txt
+DALE_FILES.TXT",,,,,,http://malware-traffic-analysis.net/2016/11/17/index.html,https://www.bleepingcomputer.com/news/security/rig-e-exploit-kit-now-distributing-new-chip-ransomware/,https://www.google.de/search?tbm=isch&q=Ransomware+CHIP,,
+Click Me Game,,,,,,,,,https://www.youtube.com/watch?v=Xe30kV4ip8w,,https://www.google.de/search?tbm=isch&q=Ransomware+Click+Me+Game,,
+Clock,,,,Does not encrypt anything,,,,,https://twitter.com/JakubKroustek/status/794956809866018816,,https://www.google.de/search?tbm=isch&q=Ransomware+Clock,,
+CloudSword,,,Warning警告.html,,,,,,https://twitter.com/BleepinComputer/status/822653335681593345,,https://www.google.de/search?tbm=isch&q=Ransomware+CloudSword,,
+Cockblocker,.hannah,,,,,,,,https://twitter.com/jiriatvirlab/status/801910919739674624,,https://www.google.de/search?tbm=isch&q=Ransomware+Cockblocker,,
+CoinVault,.clf,,wallpaper.jpg ,"CryptoGraphic Locker family. 
+Has a GUI.
+Do not confuse with CrypVault!",,,,https://noransom.kaspersky.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+CoinVault,,
+Coverton,".coverton
+.enigma
+.czvxce",,"!!!-WARNING-!!!.html
+!!!-WARNING-!!!.txt
+",,AES(256),,,,http://www.bleepingcomputer.com/news/security/paying-the-coverton-ransomware-may-not-get-your-data-back/,,https://www.google.de/search?tbm=isch&q=Ransomware+Coverton,,
+Crptxxx,.crptxxx,,HOW_TO_FIX_!.txt,Uses @enigma0x3's UAC bypass,,,,,https://twitter.com/malwrhunterteam/status/839467168760725508,,,,
+Cryaki,.{CRYPTENDBLACKDC},,,,,,,https://support.kaspersky.com/viruses/disinfection/8547,,,https://www.google.de/search?tbm=isch&q=Ransomware+Cryaki,,
+Crybola,,,,,,,,https://support.kaspersky.com/viruses/disinfection/8547,,,https://www.google.de/search?tbm=isch&q=Ransomware+Crybola,,
+CryFile,".criptiko
+.criptoko
+.criptokod
+.cripttt
+.aga",,"SHTODELATVAM.txt
+Instructionaga.txt",,Moves bytes,,,http://virusinfo.info/showthread.php?t=185396,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryFile,,
+CryLocker,.cry,,"!Recovery_[random_chars].html
+!Recovery_[random_chars].txt",Identifies victim locations w/Google Maps API,,"Cry, CSTO, Central Security Treatment Organization",,,http://www.bleepingcomputer.com/news/security/the-crylocker-ransomware-communicates-using-udp-and-stores-data-on-imgur-com/,,https://www.google.de/search?tbm=isch&q=Ransomware+CryLocker,,
+CrypMIC,,,"README.TXT
+README.HTML
+README.BMP",CryptXXX clone/spinoff,AES(256),,,,http://blog.trendmicro.com/trendlabs-security-intelligence/crypmic-ransomware-wants-to-follow-cryptxxx/,,https://www.google.de/search?tbm=isch&q=Ransomware+CrypMIC,,
+Crypren,.ENCRYPTED,,READ_THIS_TO_DECRYPT.html,,,,,https://github.com/pekeinfo/DecryptCrypren,http://www.nyxbone.com/malware/Crypren.html,,http://www.nyxbone.com/images/articulos/malware/crypren/0.png,,
+Crypt38,.crypt38,,,,AES,,,https://download.bleepingcomputer.com/demonslay335/Crypt38Keygen.zip,https://blog.fortinet.com/2016/06/17/buggy-russian-ransomware-inadvertently-allows-free-decryption,,https://www.google.de/search?tbm=isch&q=Ransomware+Crypt38,,
+CryptConsole,random,"decipher_ne@outlook.com_[encrypted_filename]
+unCrypte@outlook.com_[encrypted_filename]",How decrypt files.hta,"Impersonates the Globe Ransomware
+Will not actually encrypt files",,,,https://www.bleepingcomputer.com/forums/t/638344/cryptconsole-uncrypteoutlookcom-support-topic-how-decrypt-fileshta/,https://twitter.com/PolarToffee/status/824705553201057794,,,,
+Cryptear,,,,,AES(256),Hidden Tear,,http://www.utkusen.com/blog/dealing-with-script-kiddies-cryptear-b-incident.html,,,https://www.google.de/search?tbm=isch&q=Ransomware+Cryptear,,
+Crypter,,,,"Does not actually encrypt the files, but simply renames them",,,,,https://twitter.com/jiriatvirlab/status/802554159564062722,,,,
+CryptFIle2,.scl,id[_ID]email_xerx@usa.com.scl,,,RSA,,,,https://www.proofpoint.com/us/threat-insight/post/ransomware-explosion-continues-cryptflle2-brlock-mm-locker-discovered,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptFIle2,,
+CryptInfinite,.crinf,,,,,,,https://decrypter.emsisoft.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptInfinite,,
+CryptoBit,,,OKSOWATHAPPENDTOYOURFILES.TXT,"sekretzbel0ngt0us.KEY
+do not confuse with CryptorBit",AES and RSA,,,,http://www.pandasecurity.com/mediacenter/panda-security/cryptobit/,http://news.softpedia.com/news/new-cryptobit-ransomware-could-be-decryptable-503239.shtml,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoBit,,
+CryptoBlock,,,,RaaS,,,,,https://twitter.com/drProct0r/status/810500976415281154,https://blog.malwarebytes.com/threat-analysis/2017/03/cryptoblock-and-its-c2/,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoBlock,,
+CryptoDefense,,,"HOW_DECRYPT.TXT
+HOW_DECRYPT.HTML
+HOW_DECRYPT.URL",no extension change,,,,https://decrypter.emsisoft.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoDefense,,
+CryptoDevil,.devil,,,,,,,,https://twitter.com/PolarToffee/status/843527738774507522,,,,
+CryptoFinancial,,,,,,Ranscam,,,http://blog.talosintel.com/2016/07/ranscam.html,https://nakedsecurity.sophos.com/2016/07/13/ransomware-that-demands-money-and-gives-you-back-nothing/,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoFinancial,,
+CryptoFortress,.frtrss,,READ IF YOU WANT YOUR FILES BACK.html,Mimics Torrentlocker. Encrypts only 50% of each file up to 5 MB,"AES(256), RSA (1024)",,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoFortress,,
+CryptoGraphic Locker,.clf,,wallpaper.jpg,"Has a GUI.
+Subvariants: CoinVault
+BitCryptor",,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoGraphic+Locker,,
+CryptoHost,,,,"RAR's victim's files
+has a GUI",AES(256) (RAR implementation),"Manamecrypt, Telograph, ROI Locker",,http://www.bleepingcomputer.com/news/security/cryptohost-decrypted-locks-files-in-a-password-protected-rar-file/,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoHost,,
+CryptoJacky,,,,,,,,,https://twitter.com/jiriatvirlab/status/838779371750031360,,,,
+CryptoJoker,.crjoker,,"README!!!.txt
+GetYouFiles.txt
+crjoker.html",,AES-256,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoJoker,,
+CryptoLocker,".encrypted 
+.ENC",,,no longer relevant,RSA,,,https://www.fireeye.com/blog/executive-perspective/2014/08/your-locker-of-information-for-cryptolocker-decryption.html,https://reaqta.com/2016/04/uncovering-ransomware-distribution-operation-part-2/,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoLocker,,
+CryptoLocker 1.0.0,,,,,,,,,https://twitter.com/malwrhunterteam/status/839747940122001408,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoLocker+1.0.0,,
+CryptoLocker 5.1,,,,,,,,,https://twitter.com/malwrhunterteam/status/782890104947867649,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoLocker+5.1,,
+CryptoLuck / YafunnLocker,.[victim_id]_luck,[A-F0-9]{8}_luck,%AppData%\@WARNING_FILES_ARE_ENCRYPTED.[victim_id].txt.,via RIG EK,AES(256),,,,http://www.bleepingcomputer.com/news/security/cryptoluck-ransomware-being-malvertised-via-rig-e-exploit-kits/,https://twitter.com/malwareforme/status/798258032115322880,https://twitter.com/malwareforme/status/798258032115322880,,
+CryptoMix,".code
+.scl
+.rmd
+.lesli
+.rdmk
+.CRYPTOSHIELD
+.CRYPTOSHIEL",".id_(ID_MACHINE)_email_xoomx@dr.com_.code
+.id_*_email_zeta@dr.com
+.id_(ID_MACHINE)_email_anx@dr.com_.scl
+.email[supl0@post.com]id[\[[a-z0-9]{16}\]].lesli
+*filename*.email[*email*]_id[*id*].rdmk","HELP_YOUR_FILES.html (CryptXXX)
+HELP_YOUR_FILES.txt (CryptoWall 3.0, 4.0)
+INSTRUCTION RESTORE FILE.TXT",,,Zeta,,,http://www.nyxbone.com/malware/CryptoMix.html,https://www.cert.pl/en/news/single/technical-analysis-of-cryptomixcryptfile2-ransomware/,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoMix,,
+CryptON,"_crypt
+.id-_locked
+.id-_locked_by_krec
+.id-_locked_by_perfect
+.id-_x3m
+.id-_r9oj
+.id-_garryweber@protonmail.ch
+.id-_steaveiwalker@india.com_
+.id-_julia.crown@india.com_
+.id-_tom.cruz@india.com_
+.id-_CarlosBoltehero@india.com_
+.id-_maria.lopez1@india.com_",name_crypt..extension,,,"RSA, AES-256 and SHA-256","Nemesis
+X3M",,https://decrypter.emsisoft.com/crypton,https://www.bleepingcomputer.com/news/security/crypton-ransomware-is-here-and-its-not-so-bad-/,https://twitter.com/JakubKroustek/status/829353444632825856,https://www.google.de/search?tbm=isch&q=Ransomware+CryptON,,
+CryptoRansomeware,,,,,,,,,https://twitter.com/malwrhunterteam/status/817672617658347521,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoRansomeware,,
+Cryptorium,.ENC,,,Only renames files and does not encrypt them,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Cryptorium,,
+CryptoRoger,.crptrgr,,!Where_are_my_files!.html,,AES,,,,http://www.bleepingcomputer.com/news/security/new-ransomware-called-cryptoroger-that-appends-crptrgr-to-encrypted-files/,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoRoger,,
+CryptoShadow,.doomed,,LEER_INMEDIATAMENTE.txt,,,,,,https://twitter.com/struppigel/status/821992610164277248,,,,
+CryptoShield,.CRYPTOSHIELD,grfg.wct.CRYPTOSHIELD,"# RESTORING FILES #.HTML
+# RESTORING FILES #.TXT",CryptoMix Variant,AES(256) / ROT-13,,,,https://www.bleepingcomputer.com/news/security/cryptomix-variant-named-cryptoshield-1-0-ransomware-distributed-by-exploit-kits/,,,,
+CryptoShocker,.locked,,ATTENTION.url,,AES,,,,http://www.bleepingcomputer.com/forums/t/617601/cryptoshocker-ransomware-help-and-support-topic-locked-attentionurl/,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoShocker,,
+CryptoTorLocker2015,.CryptoTorLocker2015!,,"HOW TO DECRYPT FILES.txt
+%Temp%\<random>.bmp",,,,,http://www.bleepingcomputer.com/forums/t/565020/new-cryptotorlocker2015-ransomware-discovered-and-easily-decrypted/,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoTorLocker2015,,
+CryptoTrooper,,,,,AES,,,,http://news.softpedia.com/news/new-open-source-linux-ransomware-shows-infosec-community-divide-508669.shtml,,,,
+CryptoWall 1,,no filename change,"DECRYPT_INSTRUCTION.HTML
+DECRYPT_INSTRUCTION.TXT
+DECRYPT_INSTRUCTION.URL
+INSTALL_TOR.URL",,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoWall+1,,
+CryptoWall 2,,no filename change,"HELP_DECRYPT.TXT
+HELP_DECRYPT.PNG
+HELP_DECRYPT.URL
+HELP_DECRYPT.HTML
+",,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoWall+2,,
+CryptoWall 3,,no filename change,"HELP_DECRYPT.TXT
+HELP_DECRYPT.PNG
+HELP_DECRYPT.URL
+HELP_DECRYPT.HTML
+",,,,,,https://blogs.technet.microsoft.com/mmpc/2015/01/13/crowti-update-cryptowall-3-0/,https://www.virustotal.com/en/file/45317968759d3e37282ceb75149f627d648534c5b4685f6da3966d8f6fca662d/analysis/,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoWall+3,,
+CryptoWall 4,,"<random>.<random>, e.g.,
+27p9k967z.x1nep","HELP_YOUR_FILES.HTML
+HELP_YOUR_FILES.PNG
+",,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptoWall+4,,
+CryptoWire,,,,,AES(256),,,,https://twitter.com/struppigel/status/791554654664552448,https://www.bleepingcomputer.com/news/security/-proof-of-concept-cryptowire-ransomware-spawns-lomix-and-ultralocker-families/,,,
+CryptXXX,.crypt,,"de_crypt_readme.bmp, .txt, .html",Comes with Bedep,,CryptProjectXXX,,https://support.kaspersky.com/viruses/disinfection/8547,http://www.bleepingcomputer.com/virus-removal/cryptxxx-ransomware-help-information,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptXXX,,
+CryptXXX 2.0,.crypt,,"<personal-ID>.txt, .html, .bmp","Locks screen. Ransom note names are an ID.
+Comes with Bedep.",,CryptProjectXXX,,https://support.kaspersky.com/viruses/disinfection/8547,https://www.proofpoint.com/us/threat-insight/post/cryptxxx2-ransomware-authors-strike-back-against-free-decryption-tool,http://blogs.cisco.com/security/cryptxxx-technical-deep-dive,https://www.google.de/search?tbm=isch&q=Ransomware+CryptXXX+2.0,,
+CryptXXX 3.0,".crypt
+.cryp1
+.crypz
+.cryptz
+random",,,Comes with Bedep,,"UltraDeCrypter
+UltraCrypter",,https://support.kaspersky.com/viruses/disinfection/8547,http://www.bleepingcomputer.com/news/security/cryptxxx-updated-to-version-3-0-decryptors-no-longer-work/,http://blogs.cisco.com/security/cryptxxx-technical-deep-dive,https://www.google.de/search?tbm=isch&q=Ransomware+CryptXXX+3.0,,
+CryptXXX 3.1,.cryp1,,,StilerX credential stealing,,,,https://support.kaspersky.com/viruses/disinfection/8547,https://www.proofpoint.com/us/threat-insight/post/cryptxxx-ransomware-learns-samba-other-new-tricks-with-version3100,,https://www.google.de/search?tbm=isch&q=Ransomware+CryptXXX+3.1,,
+CryPy,.cry,,README_FOR_DECRYPT.txt,,AES,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CryPy,,
+Crysis,.bip,.id-[id].[email].bip,,Locks screen. Ransom note ask to contact 888@cock.email. Attack timeline shows machine was compromised by RDP bruteforce first then implant the ransomware as final step,,,,,https://www.bleepingcomputer.com/news/security/new-arena-crysis-ransomware-variant-released/,https://blog.trendmicro.com/trendlabs-security-intelligence/brute-force-rdp-attacks-plant-crysis-ransomware/,https://www.dropbox.com/s/2gtk33g6rwlkcfb/Crysis%20Lock.png?dl=0,,
+CTB-Faker,,,,,,,,,http://www.bleepingcomputer.com/news/security/ctb-faker-ransomware-does-a-poor-job-imitating-ctb-locker/,,https://www.google.de/search?tbm=isch&q=Ransomware+CTB-Faker,,
+CTB-Locker,".ctbl
+",".([a-z]{6,7})","AllFilesAreLocked <user_id>.bmp
+DecryptAllFiles <user_id>.txt
+<random>.html
+",,RSA(2048),Citroni,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+CTB-Locker,,
+CTB-Locker WEB,,,,websites only,AES(256),,,,https://thisissecurity.net/2016/02/26/a-lockpicking-exercise/,https://github.com/eyecatchup/Critroni-php,https://www.google.de/search?tbm=isch&q=Ransomware+CTB-Locker+WEB,,
+CuteRansomware,".已加密
+.encrypted",,"你的檔案被我們加密啦!!!.txt
+Your files encrypted by our friends !!! txt",Based on my-Little-Ransomware,AES(128),my-Little-Ransomware,,https://github.com/aaaddress1/my-Little-Ransomware/tree/master/decryptoTool,https://github.com/aaaddress1/my-Little-Ransomware,,https://www.google.de/search?tbm=isch&q=Ransomware+CuteRansomware,,
+Cyber SpLiTTer Vbs,,,,Based on HiddenTear,,CyberSplitter,,,https://twitter.com/struppigel/status/778871886616862720,https://twitter.com/struppigel/status/806758133720698881,https://www.google.de/search?tbm=isch&q=Ransomware+Cyber+SpLiTTer+Vbs,,
+Damage,.damage,,,Written in Delphi,Combination of SHA-1 and Blowfish,,,https://decrypter.emsisoft.com/damage,https://twitter.com/demonslay335/status/835664067843014656,,https://www.google.de/search?tbm=isch&q=Ransomware+Damage,,
+Dharma,".dharma
+.wallet
+.zzzzz
+.adobe",".<email>.(dharma|wallet|zzzzz)
+.id-%ID%.[moneymaker2@india.com].wallet","README.txt
+README.jpg
+Info.hta",CrySiS variant,,,,https://www.bleepingcomputer.com/news/security/kaspersky-releases-decryptor-for-the-dharma-ransomware/,https://www.bleepingcomputer.com/forums/t/632389/dharma-ransomware-filenameemailwalletbipcmbarena-support-topic/,,https://www.google.de/search?tbm=isch&q=Ransomware+Dharma,,
+Deadly for a Good Purpose,,,,Encrypts in 2017,,,,,https://twitter.com/malwrhunterteam/status/785533373007728640,,https://www.google.de/search?tbm=isch&q=Ransomware+Deadly+for+a+Good+Purpose,,
+Death Bitches,.locked,,READ_IT.txt,,,,,,https://twitter.com/JaromirHorejsi/status/815555258478981121,,,,
+DeCrypt Protect,.html,,,,,,,http://www.malwareremovalguides.info/decrypt-files-with-decrypt_mblblock-exe-decrypt-protect/,,,https://www.google.de/search?tbm=isch&q=Ransomware+DeCrypt+Protect,,
+DEDCryptor,.ded,,,Based on EDA2,AES(256),,,,http://www.bleepingcomputer.com/forums/t/617395/dedcryptor-ded-help-support-topic/,http://www.nyxbone.com/malware/DEDCryptor.html,https://www.google.de/search?tbm=isch&q=Ransomware+DEDCryptor,,
+Demo,.encrypted,,HELP_YOUR_FILES.txt,only encrypts .jpg files,,,,,https://twitter.com/struppigel/status/798573300779745281,,,,
+Depsex,.Locked-by-Mafia,,READ_ME.txt,Based on HiddenTear,,MafiaWare,,,https://twitter.com/BleepinComputer/status/817069320937345024,,,,
+DeriaLock,.deria,,unlock-everybody.txt,,,,,https://www.bleepingcomputer.com/news/security/new-derialock-ransomware-active-on-christmas-includes-an-unlock-all-command/,https://www.bleepingcomputer.com/news/security/new-derialock-ransomware-active-on-christmas-includes-an-unlock-all-command/,,,,
+DetoxCrypto,,,,,AES,"Based on Detox:
+Calipso
+We are all Pokemons
+Nullbyte",,,http://www.bleepingcomputer.com/news/security/new-detoxcrypto-ransomware-pretends-to-be-pokemongo-or-uploads-a-picture-of-your-screen/,,https://www.google.de/search?tbm=isch&q=Ransomware+DetoxCrypto,,
+Digisom,,,Digisom Readme0.txt (0 to 9),,,,,,https://twitter.com/PolarToffee/status/829727052316160000,,,,
+DirtyDecrypt,,,,,,,,,https://twitter.com/demonslay335/status/752586334527709184,,https://www.google.de/search?tbm=isch&q=Ransomware+DirtyDecrypt,,
+DMALocker,,,"cryptinfo.txt
+decrypting.txt
+start.txt","no extension change
+Encrypted files have prefix:
+Version 1: ABCXYZ11
+Version 2: !DMALOCK
+Version 3: !DMALOCK3.0
+Version 4: !DMALOCK4.0
+","AES(256) in ECB mode, 
+Version 2-4 also RSA",,,"https://decrypter.emsisoft.com/
+https://github.com/hasherezade/dma_unlocker
+https://drive.google.com/drive/folders/0Bzb5kQFOXkiSMm94QzdyM3hCdDg",https://blog.malwarebytes.org/threat-analysis/2016/02/dma-locker-a-new-ransomware-but-no-reason-to-panic/,,https://www.google.de/search?tbm=isch&q=Ransomware+DMALocker,,
+DMALocker 3.0,,,,no extension change,"AES(256)
+XPTLOCK5.0",,,https://drive.google.com/drive/folders/0Bzb5kQFOXkiSMm94QzdyM3hCdDg,https://blog.malwarebytes.org/threat-analysis/2016/02/dma-locker-strikes-back/,,https://www.google.de/search?tbm=isch&q=Ransomware+DMALocker+3.0,,
+DNRansomware,.fucked,,,Code to decrypt: 83KYG9NW-3K39V-2T3HJ-93F3Q-GT,,,,,https://twitter.com/BleepinComputer/status/822500056511213568,,https://www.google.de/search?tbm=isch&q=Ransomware+DNRansomware,,
+Domino,.domino,,README_TO_RECURE_YOUR_FILES.txt,Based on Hidden Tear,AES(256),,,,http://www.nyxbone.com/malware/Domino.html,http://www.bleepingcomputer.com/news/security/the-curious-case-of-the-domino-ransomware-a-windows-crack-and-a-cow/,https://www.google.de/search?tbm=isch&q=Ransomware+Domino,,
+Donald Trump,.ENCRYPTED,,,,AES,,,,https://www.bleepingcomputer.com/news/security/the-donald-trump-ransomware-tries-to-build-walls-around-your-files/,,https://www.google.de/search?tbm=isch&q=Ransomware+Donald+Trump,,
+DoNotChange,".id-7ES642406.cry
+.Do_not_change_the_filename",,"HOW TO DECODE FILES!!!.txt
+КАК РАСШИФРОВАТЬ ФАЙЛЫ!!!.txt",,AES(128),,,https://www.bleepingcomputer.com/forums/t/643330/donotchange-ransomware-id-7es642406cry-do-not-change-the-file-namecryp/,,,,,
+DummyLocker,.dCrypt,,,,,,,,https://twitter.com/struppigel/status/794108322932785158,,https://www.google.de/search?tbm=isch&q=Ransomware+DummyLocker,,
+DXXD,.dxxd,,ReadMe.TxT,,,,,https://www.bleepingcomputer.com/forums/t/627831/dxxd-ransomware-dxxd-help-support-readmetxt/,https://www.bleepingcomputer.com/news/security/the-dxxd-ransomware-displays-legal-notice-before-users-login/,,https://www.google.de/search?tbm=isch&q=Ransomware+DXXD,,
+DynA-Crypt,.crypt,,,,,,,,https://www.bleepingcomputer.com/news/security/dyna-crypt-not-only-encrypts-your-files-but-also-steals-your-info/,,https://www.google.de/search?tbm=isch&q=Ransomware+DynA-Crypt,,
+EDA2 / HiddenTear,.locked,,,Open sourced C#,AES(256),Cryptear,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+EDA2+/+HiddenTear,,
+EdgeLocker,.edgel,,,,,,,,https://twitter.com/BleepinComputer/status/815392891338194945,,,,
+EduCrypt,".isis
+.locked",,README.txt,Based on Hidden Tear,,EduCrypter,,http://www.filedropper.com/decrypter_1,https://twitter.com/JakubKroustek/status/747031171347910656,,https://www.google.de/search?tbm=isch&q=Ransomware+EduCrypt,,
+EiTest,.crypted,,,,,,,,https://twitter.com/BroadAnalysis/status/845688819533930497,https://twitter.com/malwrhunterteam/status/845652520202616832,,,
+El-Polocker,.ha3,,"qwer.html
+qwer2.html 
+locked.bmp
+",Has a GUI,,Los Pollos Hermanos,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+El-Polocker,,
+Encoder.xxxx,,,Instructions.html,Coded in GO,,Trojan.Encoder.6491,,,http://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14-2016-exotic-lockydump-comrade-and-more/,http://vms.drweb.ru/virus/?_is=1&i=8747343,https://www.google.de/search?tbm=isch&q=Ransomware+Encoder.xxxx,,
+encryptoJJS,.enc,,How to recover.enc,,,,,,,,,,
+Enigma,".enigma
+.1txt",,"enigma.hta
+enigma_encr.txt
+enigma_info.txt",,AES(128),,,,http://www.bleepingcomputer.com/news/security/the-enigma-ransomware-targets-russian-speaking-users/,,https://www.google.de/search?tbm=isch&q=Ransomware+Enigma,,
+Enjey,,,,Based on RemindMe,,,,,https://twitter.com/malwrhunterteam/status/839022018230112256,,https://www.google.de/search?tbm=isch&q=Ransomware+Enjey,,
+EnkripsiPC,.fucked,,,The encryption password is based on the computer name,,"IDRANSOMv3
+Manifestus",,https://twitter.com/demonslay335/status/811343914712100872,https://twitter.com/BleepinComputer/status/811264254481494016,https://twitter.com/struppigel/status/811587154983981056,https://www.google.de/search?tbm=isch&q=Ransomware+EnkripsiPC,,
+Erebus,,Encrypt the extension using ROT-23,README.HTML,,AES,,,,https://www.bleepingcomputer.com/news/security/erebus-ransomware-utilizes-a-uac-bypass-and-request-a-90-ransom-payment/,,https://www.google.de/search?tbm=isch&q=Ransomware+Erebus,,
+Evil,".file0locked
+.evillock",,,Coded in Javascript,,,,,https://twitter.com/jiriatvirlab/status/818443491713884161,https://twitter.com/PolarToffee/status/826508611878793219,https://www.google.de/search?tbm=isch&q=Ransomware+Evil,,
+Exotic,.exotic,random.exotic,,Also encrypts executables,AES(128),,,,http://www.bleepingcomputer.com/news/security/eviltwins-exotic-ransomware-targets-executable-files/,,https://www.google.de/search?tbm=isch&q=Ransomware+Exotic,,
+FabSysCrypto,,,,Based on HiddenTear,,,,,https://twitter.com/struppigel/status/837565766073475072,,,,
+Fadesoft,,,,,,,,,https://twitter.com/malwrhunterteam/status/829768819031805953,https://twitter.com/malwrhunterteam/status/838700700586684416,,,
+Fairware,,,,Target Linux O.S.,,,,,http://www.bleepingcomputer.com/news/security/new-fairware-ransomware-targeting-linux-computers/,,https://www.google.de/search?tbm=isch&q=Ransomware+Fairware,,
+Fakben,.locked,,READ ME FOR DECRYPT.txt,Based on Hidden Tear,,,,,https://blog.fortinet.com/post/fakben-team-ransomware-uses-open-source-hidden-tear-code,,https://www.google.de/search?tbm=isch&q=Ransomware+Fakben,,
+FakeGlobe aka GlobeImposter,.crypt,,HOW_OPEN_FILES.hta,,,,,https://decrypter.emsisoft.com/globeimposter,https://twitter.com/malwrhunterteam/status/809795402421641216,,https://www.google.de/search?tbm=isch&q=Ransomware+FakeGlobe+aka+GlobeImposter,,
+FakeCryptoLocker,.cryptolocker,,,,,,,,https://twitter.com/PolarToffee/status/812312402779836416,,https://www.google.de/search?tbm=isch&q=Ransomware+FakeCryptoLocker,,
+Fantom,".fantom
+.comrade",,"DECRYPT_YOUR_FILES.HTML
+RESTORE-FILES![id]",Based on EDA2,AES(128),"Variants:
+Comrade Circle",,,http://www.bleepingcomputer.com/news/security/fantom-ransomware-encrypts-your-files-while-pretending-to-be-windows-update/,,https://www.google.de/search?tbm=isch&q=Ransomware+Fantom,,
+FenixLocker,.FenixIloveyou!!,,Help to decrypt.txt,,,,,https://decrypter.emsisoft.com/fenixlocker,https://twitter.com/fwosar/status/777197255057084416,,https://www.google.de/search?tbm=isch&q=Ransomware+FenixLocker,,
+FILE FROZR,,,,RaaS,,,,,https://twitter.com/rommeljoven17/status/846973265650335744,,,,
+FileLocker,.ENCR,,,,,,,,https://twitter.com/jiriatvirlab/status/836616468775251968,,https://www.google.de/search?tbm=isch&q=Ransomware+FileLocker,,
+FireCrypt,.firecrypt,,[random_chars]-READ_ME.html,,AES(256),,,,https://www.bleepingcomputer.com/news/security/firecrypt-ransomware-comes-with-a-ddos-component/,,https://www.google.de/search?tbm=isch&q=Ransomware+FireCrypt,,
+Flyper,.locked,,,Based on EDA2 / HiddenTear,,,,,https://twitter.com/malwrhunterteam/status/773771485643149312,,https://www.google.de/search?tbm=isch&q=Ransomware+Flyper,,
+Fonco,,,"help-file-decrypt.enc
+<startupfolder>/pronk.txt",contact email safefiles32@mail.ru also as prefix in encrypted file contents,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Fonco,,
+FortuneCookie ,,,,,,,,,https://twitter.com/struppigel/status/842302481774321664,,,,
+Free-Freedom,.madebyadam,,,Unlock code is: adam or adamdude9,,Roga,,,https://twitter.com/BleepinComputer/status/812135608374226944,,,,
+FSociety,".fs0ciety
+.dll",,"fs0ciety.html
+DECRYPT_YOUR_FILES.HTML","Based on EDA2
+Based on RemindMe",,,,https://www.bleepingcomputer.com/forums/t/628199/fs0ciety-locker-ransomware-help-support-fs0cietyhtml/,http://www.bleepingcomputer.com/news/security/new-fsociety-ransomware-pays-homage-to-mr-robot/,https://twitter.com/siri_urz/status/795969998707720193,https://www.google.de/search?tbm=isch&q=Ransomware+FSociety,,
+Fury,,,,,,,,https://support.kaspersky.com/viruses/disinfection/8547,,,https://www.google.de/search?tbm=isch&q=Ransomware+Fury,,
+GhostCrypt,.Z81928819,,,Based on Hidden Tear,AES(256),,,https://download.bleepingcomputer.com/demonslay335/GhostCryptDecrypter.zip,http://www.bleepingcomputer.com/forums/t/614197/ghostcrypt-z81928819-help-support-topic-read-this-filetxt/,,https://www.google.de/search?tbm=isch&q=Ransomware+GhostCrypt,,
+Gingerbread,,,,,,,,,https://twitter.com/ni_fi_70/status/796353782699425792,,,,
+Globe v1,.purge,,How to restore files.hta,,Blowfish,Purge,,https://success.trendmicro.com/portal_kb_articledetail?solutionid=1114221,http://www.bleepingcomputer.com/news/security/the-globe-ransomware-wants-to-purge-your-files/,,https://www.google.de/search?tbm=isch&q=Ransomware+Globe+v1,,
+Globe v2,".lovewindows
+.openforyou@india.com",".<email>.<random>
+e.g.: .7076.docx.okean-1955@india.com.!dsvgdfvdDVGR3SsdvfEF75sddf#xbkNY45fg6}P{cg",,,Blowfish,Purge,,https://success.trendmicro.com/portal_kb_articledetail?solutionid=1114221,,,https://www.google.de/search?tbm=isch&q=Ransomware+Globe+v2,,
+Globe v3,".[random].blt
+.[random].encrypted
+.[random].raid10
+.[mia.kokers@aol.com]
+.[random].globe
+.unlockvt@india.com
+.rescuers@india.com.3392cYAn548QZeUf.lock
+.locked
+.decrypt2017
+.hnumkhotep",,,Extesion depends on the config file. It seems Globe is a ransomware kit.,"RC4
+AES(256)",Purge,,https://decrypter.emsisoft.com/globe3,,,https://www.google.de/search?tbm=isch&q=Ransomware+Globe+v3,,
+GNL Locker,.locked,"<ID>.locked, e.g.,
+bill.!ID!8MMnF!ID!.locked",UNLOCK_FILES_INSTRUCTIONS.html and .txt,Only encrypts DE or NL country,AES (256),"Variants, from old to latest:
+Zyklon Locker
+WildFire locker
+Hades Locker",,,http://www.bleepingcomputer.com/forums/t/611342/gnl-locker-support-and-help-topic-locked-and-unlock-files-instructionshtml/,,https://www.google.de/search?tbm=isch&q=Ransomware+GNL+Locker,,
+GOG,.L0CKED,,DecryptFile.txt,,,,,,https://twitter.com/BleepinComputer/status/816112218815266816,,,,
+Gomasom,.crypt,!___[EMAILADDRESS]_.crypt,,no ransom note,,,,https://decrypter.emsisoft.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Gomasom,,
+Goopic,,,Your files have been crypted.html,,,,,,http://blog.trendmicro.com/trendlabs-security-intelligence/angler-shift-ek-landscape-new-crytpo-ransomware-activity/,,https://www.google.de/search?tbm=isch&q=Ransomware+Goopic,,
+Gopher,,,,OS X ransomware (PoC),,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Gopher,,
+Gremit,.rnsmwr,,,,,,,,https://twitter.com/struppigel/status/794444032286060544,,https://www.google.de/search?tbm=isch&q=Ransomware+Gremit,,
+Guster,.locked,,,,,,,,https://twitter.com/BleepinComputer/status/812131324979007492,,https://www.google.de/search?tbm=isch&q=Ransomware+Guster,,
+Hacked,".versiegelt
+.encrypted
+.payrmts
+.locked
+.Locked",,,Jigsaw Ransomware variant,,,,,https://twitter.com/demonslay335/status/806878803507101696,,,,
+HappyDayzz,,,,,"3DES
+AES(128)
+AES(192)
+AES(256)
+DES
+RC2
+RC4",,,,https://twitter.com/malwrhunterteam/status/847114064224497666,,,,
+Harasom,.html,,,,,,,https://decrypter.emsisoft.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Harasom,,
+HDDCryptor,,,,Uses https://diskcryptor.net for full disk encryption,"Custom (net shares), XTS-AES (disk)",Mamba,,,https://www.linkedin.com/pulse/mamba-new-full-disk-encryption-ransomware-family-member-marinho,blog.trendmicro.com/trendlabs-security-intelligence/bksod-by-ransomware-hddcryptor-uses-commercial-tools-to-encrypt-network-shares-and-lock-hdds/,https://www.google.de/search?tbm=isch&q=Ransomware+HDDCryptor,,
+Heimdall,,,,"File marker: ""Heimdall---""",AES-128-CBC,,,,https://www.bleepingcomputer.com/news/security/heimdall-open-source-php-ransomware-targets-web-servers/,,https://www.google.de/search?tbm=isch&q=Ransomware+Heimdall,,
+Help_dcfile,.XXX,,help_dcfile.txt,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Help_dcfile,,
+Herbst,.herbst,,,,AES(256),,,,https://blog.fortinet.com/2016/06/03/cooking-up-autumn-herbst-ransomware,,https://www.google.de/search?tbm=isch&q=Ransomware+Herbst,,
+Hermes,,,"DECRYPT_INFORMATION.html
+UNIQUE_ID_DO_NOT_REMOVE","Filemarker: ""HERMES""",AES,,,https://www.bleepingcomputer.com/forums/t/642019/hermes-ransomware-help-support-decrypt-informationhtml/,https://www.bleepingcomputer.com/news/security/hermes-ransomware-decrypted-in-live-video-by-emsisofts-fabian-wosar/,,,,
+Hi Buddy!,".cry
+",,,Based on HiddenTear,AES(256),,,,"http://www.nyxbone.com/malware/hibuddy.html
+",,https://www.google.de/search?tbm=isch&q=Ransomware+Hi+Buddy!,,
+Hitler,,removes extensions,,Deletes files,,,,,http://www.bleepingcomputer.com/news/security/development-version-of-the-hitler-ransomware-discovered/,https://twitter.com/jiriatvirlab/status/825310545800740864,https://www.google.de/search?tbm=isch&q=Ransomware+Hitler,,
+HolyCrypt,(encrypted),,,,AES,,,,http://www.bleepingcomputer.com/news/security/new-python-ransomware-called-holycrypt-discovered/,,https://www.google.de/search?tbm=isch&q=Ransomware+HolyCrypt,,
+HTCryptor,,,,"Includes a feature to disable the victim's windows firewall
+Modified in-dev HiddenTear",,,,,https://twitter.com/BleepinComputer/status/803288396814839808,,,,
+Hucky,.locky,"[a-zA-Z0-9+_-]{1,}.[a-z0-9]{3,4}.locky","_Adatok_visszaallitasahoz_utasitasok.txt
+_locky_recover_instructions.txt",Based on Locky,"AES, RSA (hardcoded)",Hungarian Locky (Hucky),,,https://blog.avast.com/hucky-ransomware-a-hungarian-locky-wannabe,,https://www.google.de/search?tbm=isch&q=Ransomware+Hucky,,
+HydraCrypt,,hydracrypt_ID_[\w]{8},README_DECRYPT_HYRDA_ID_[ID number].txt,CrypBoss Family,,,,https://decrypter.emsisoft.com/,http://www.malware-traffic-analysis.net/2016/02/03/index2.html,,https://www.google.de/search?tbm=isch&q=Ransomware+HydraCrypt,,
+IFN643,,,,,,,,,https://twitter.com/struppigel/status/791576159960072192,,,,
+iLock,.crime,,,,,,,,https://twitter.com/BleepinComputer/status/817085367144873985,,https://www.google.de/search?tbm=isch&q=Ransomware+iLock,,
+iLockLight,.crime,,,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+iLockLight,,
+International Police Association,,<6 random characters>,%Temp%\<random>.bmp,CryptoTorLocker2015 variant,,,,http://download.bleepingcomputer.com/Nathan/StopPirates_Decrypter.exe,,,https://www.google.de/search?tbm=isch&q=Ransomware+International+Police+Association,,
+iRansom,.Locked,,,,,,,,https://twitter.com/demonslay335/status/796134264744083460,,https://www.google.de/search?tbm=isch&q=Ransomware+iRansom,,
+Jack.Pot,,,,,,,,,https://twitter.com/struppigel/status/791639214152617985,,https://www.google.de/search?tbm=isch&q=Ransomware+Jack.Pot,,
+JagerDecryptor,!ENC,,Important_Read_Me.html,Prepends filenames,,,,,https://twitter.com/JakubKroustek/status/757873976047697920,,https://www.google.de/search?tbm=isch&q=Ransomware+JagerDecryptor,,
+JapanLocker,,,,,"Base64 encoding, ROT13, and top-bottom swapping","shc Ransomware
+SyNcryption",,https://github.com/fortiguard-lion/schRansomwareDecryptor/blob/master/schRansomwarev1_decryptor.php,https://blog.fortinet.com/2016/10/19/japanlocker-an-excavation-to-its-indonesian-roots,,https://www.google.de/search?tbm=isch&q=Ransomware+JapanLocker,,
+Jeiphoos,,,readme_liesmich_encryptor_raas.txt,"Windows, Linux. Campaign stopped. Actor claimed he deleted the master key.","RC6 (files), RSA 2048 (RC6 key)","Encryptor RaaS, Sarento",,,http://www.nyxbone.com/malware/RaaS.html,http://blog.trendmicro.com/trendlabs-security-intelligence/the-rise-and-fall-of-encryptor-raas/,https://www.google.de/search?tbm=isch&q=Ransomware+Jeiphoos,,
+Jhon Woddy,.killedXXX,,,"Same codebase as DNRansomware
+Lock screen password is M3VZ>5BwGGVH",,,,https://download.bleepingcomputer.com/demonslay335/DoNotOpenDecrypter.zip,https://twitter.com/BleepinComputer/status/822509105487245317,,https://www.google.de/search?tbm=isch&q=Ransomware+Jhon+Woddy,,
+Jigsaw,".btc
+.kkk
+.fun
+.gws
+.porno
+.payransom
+.payms
+.paymst
+.AFD
+.paybtcs
+.epic
+.xyz
+.encrypted
+.hush
+.paytounlock
+.uk-dealer@sigaint.org
+.gefickt
+.nemo-hacks.at.sigaint.org",,,Has a GUI,AES(256),CryptoHitMan (subvariant),,http://www.bleepingcomputer.com/news/security/jigsaw-ransomware-decrypted-will-delete-your-files-until-you-pay-the-ransom/,"https://www.helpnetsecurity.com/2016/04/20/jigsaw-crypto-ransomware/
+",https://twitter.com/demonslay335/status/795819556166139905,https://www.google.de/search?tbm=isch&q=Ransomware+Jigsaw,,
+Job Crypter,".locked
+.css",,"Comment débloquer mes fichiers.txt
+Readme.txt","Based on HiddenTear, but uses TripleDES, decrypter is PoC",TripleDES,,,,"http://www.nyxbone.com/malware/jobcrypter.html
+http://forum.malekal.com/jobcrypter-geniesanstravaille-extension-locked-crypto-ransomware-t54381.html",https://twitter.com/malwrhunterteam/status/828914052973858816,https://www.google.de/search?tbm=isch&q=Ransomware+Job+Crypter,,
+JohnyCryptor,,,,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+JohnyCryptor,,
+Kaandsona,.kencf,,,Crashes before it encrypts,,"Käändsõna
+RansomTroll",,,https://twitter.com/BleepinComputer/status/819927858437099520,,https://www.google.de/search?tbm=isch&q=Ransomware+Kaandsona,,
+Kangaroo,.crypted_file,,filename.Instructions_Data_Recovery.txt,"From the developer behind the Apocalypse Ransomware, Fabiansomware, and Esmeralda",,,,,https://www.bleepingcomputer.com/news/security/the-kangaroo-ransomware-not-only-encrypts-your-data-but-tries-to-lock-you-out-of-windows/,,https://www.google.de/search?tbm=isch&q=Ransomware+Kangaroo,,
+Karma,.karma,,"# DECRYPT MY FILES #.html
+# DECRYPT MY FILES #.txt",pretends to be a Windows optimization program called Windows-TuneUp,AES,,,,https://www.bleepingcomputer.com/news/security/researcher-finds-the-karma-ransomware-being-distributed-via-pay-per-install-network/,,https://www.google.de/search?tbm=isch&q=Ransomware+Karma,,
+Karmen,.grt,,,"RaaS
+Based on HiddenTear",,,,,https://twitter.com/malwrhunterteam/status/841747002438361089,,https://www.google.de/search?tbm=isch&q=Ransomware+Karmen,,
+Kasiski,[KASISKI],,INSTRUCCIONES.txt,,,,,,https://twitter.com/MarceloRivero/status/832302976744173570,,https://www.google.de/search?tbm=isch&q=Ransomware+Kasiski,,
+KawaiiLocker,,,How Decrypt Files.txt,,,,,https://safezone.cc/resources/kawaii-decryptor.195/,,,https://www.google.de/search?tbm=isch&q=Ransomware+KawaiiLocker,,
+KeRanger,.encrypted,,,OS X Ransomware,AES,,,http://news.drweb.com/show/?i=9877&lng=en&c=5,http://www.welivesecurity.com/2016/03/07/new-mac-ransomware-appears-keranger-spread-via-transmission-app/,,https://www.google.de/search?tbm=isch&q=Ransomware+KeRanger,,
+KeyBTC,"keybtc@inbox_com
+",,"DECRYPT_YOUR_FILES.txt
+READ.txt
+readme.txt
+",,,,,https://decrypter.emsisoft.com/,,,https://www.google.de/search?tbm=isch&q=Ransomware+KeyBTC,,
+KEYHolder,,,"how_decrypt.gif
+how_decrypt.html
+","via remote attacker.
+tuyuljahat@hotmail.com contact address",,,,,http://www.bleepingcomputer.com/forums/t/559463/keyholder-ransomware-support-and-help-topic-how-decryptgifhow-decrypthtml,,https://www.google.de/search?tbm=isch&q=Ransomware+KEYHolder,,
+KillDisk,,,,,AES(256),,,,https://cyberx-labs.com/en/blog/new-killdisk-malware-brings-ransomware-into-industrial-domain/,http://www.welivesecurity.com/2017/01/05/killdisk-now-targeting-linux-demands-250k-ransom-cant-decrypt/,,,
+KillerLocker,.rip,,,Possibly Portuguese dev,,,,,https://twitter.com/malwrhunterteam/status/782232299840634881,,https://www.google.de/search?tbm=isch&q=Ransomware+KillerLocker,,
+KimcilWare,".kimcilware
+.locked",,,websites only,AES,,,https://blog.fortinet.com/post/kimcilware-ransomware-how-to-decrypt-encrypted-files-and-who-is-behind-it,http://www.bleepingcomputer.com/news/security/the-kimcilware-ransomware-targets-web-sites-running-the-magento-platform/,,https://www.google.de/search?tbm=isch&q=Ransomware+KimcilWare,,
+Kirk,.Kirked,,RANSOM_NOTE.txt,Payments in Monero,,,,https://www.virustotal.com/en/file/39a2201a88f10d81b220c973737f0becedab2e73426ab9923880fb0fb990c5cc/analysis/,https://www.bleepingcomputer.com/news/security/star-trek-themed-kirk-ransomware-brings-us-monero-and-a-spock-decryptor/,,https://www.google.de/search?tbm=isch&q=Ransomware+Kirk,,
+Koolova,,,,With Italian text that only targets the Test folder on the user's desktop,,,,,https://www.bleepingcomputer.com/news/security/koolova-ransomware-decrypts-for-free-if-you-read-two-articles-about-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+Koolova,,
+Korean,.암호화됨,,ReadMe.txt,Based on HiddenTear,AES(256),,,,http://www.nyxbone.com/malware/koreanRansom.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Korean,,
+Kostya,.kostya,,,,,,,,http://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14-2016-exotic-lockydump-comrade-and-more/,,https://www.google.de/search?tbm=isch&q=Ransomware+Kostya,,
+Kozy.Jozy,.31392E30362E32303136_[ID-KEY]_LSBJ1,".([0-9A-Z]{20})_([0-9]{2})_([A-Z0-9]{4,5})",w.jpg,"Potential Kit
+selectedkozy.jozy@yahoo.com
+kozy.jozy@yahoo.com
+unlock92@india.com",RSA(2048),QC,,,http://www.nyxbone.com/malware/KozyJozy.html,http://www.bleepingcomputer.com/forums/t/617802/kozyjozy-ransomware-help-support-wjpg-31392e30362e32303136-num-lsbj1/,https://www.google.de/search?tbm=isch&q=Ransomware+Kozy.Jozy,,
+Kraken,.kraken,[base64].kraken,_HELP_YOUR_FILES.html,,,,,,,,,,
+KratosCrypt,.kratos,,README_ALL.html,kratosdimetrici@gmail.com,,,,,https://twitter.com/demonslay335/status/746090483722686465,,https://www.google.de/search?tbm=isch&q=Ransomware+KratosCrypt,,
+KRider,.kr3,,,,,,,,https://twitter.com/malwrhunterteam/status/836995570384453632,,,,
+KryptoLocker,,,KryptoLocker_README.txt,Based on HiddenTear,AES(256),,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+KryptoLocker,,
+LambdaLocker,.lambda_l0cked,,READ_IT.hTmL,Python Ransomware,AES(256),,,,,,,,
+LanRan,,,@__help__@,Variant of open-source MyLittleRansomware,,,,,https://twitter.com/struppigel/status/847689644854595584,,,,
+LeChiffre,.LeChiffre,,How to decrypt LeChiffre files.html,"Encrypts first 0x2000 and last 0x2000 bytes.
+Via remote attacker",,,,https://decrypter.emsisoft.com/lechiffre,https://blog.malwarebytes.org/threat-analysis/2016/01/lechiffre-a-manually-run-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+LeChiffre,,
+Lick,.Licked,,RANSOM_NOTE.txt,Variant of Kirk,,,,,https://twitter.com/JakubKroustek/status/842404866614038529,,,,
+Linux.Encoder,,,,Linux Ransomware,,"Linux.Encoder.{0,3}",,https://labs.bitdefender.com/2015/11/linux-ransomware-debut-fails-on-predictable-encryption-key/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Linux.Encoder,,
+LK Encryption,,,,Based on HiddenTear,,,,,https://twitter.com/malwrhunterteam/status/845183290873044994,,,,
+LLTP Locker,".ENCRYPTED_BY_LLTP
+.ENCRYPTED_BY_LLTPp",,LEAME.txt,Targeting Spanish speaking victims,AES-256,,,,https://www.bleepingcomputer.com/news/security/new-lltp-ransomware-appears-to-be-a-rewritten-venus-locker/,,,,
+LockCrypt,.lock,,ReadMe.TxT,,,,09/29/2017,,https://www.bleepingcomputer.com/forums/t/648384/lockcrypt-lock-support-topic-readmetxt/,,,,
+Locked-In,,,RESTORE_CORUPTED_FILES.HTML,Based on RemindMe,,,,https://www.bleepingcomputer.com/forums/t/634754/locked-in-ransomware-help-support-restore-corupted-fileshtml/,https://twitter.com/struppigel/status/807169774098796544,,,,
+Locker,,,,"no extension change
+has GUI",,,,http://www.bleepingcomputer.com/forums/t/577246/locker-ransomware-support-and-help-topic/page-32#entry3721545,,,https://www.google.de/search?tbm=isch&q=Ransomware+Locker,,
+LockLock,.locklock,,READ_ME.TXT,,AES(256),,,,https://www.bleepingcomputer.com/forums/t/626750/locklock-ransomware-locklock-help-support/,,,,
+Locky,".locky
+.zepto
+.odin
+.shit
+.thor
+.aesir
+.zzzzz
+.osiris
+.DIABLO6
+.lukitus","([A-F0-9]{32}).locky
+([A-F0-9]{32}).zepto
+([A-F0-9]{32}).odin
+([A-F0-9]{32}).shit
+([A-F0-9]{32}).thor
+([A-F0-9]{32}).aesir
+([A-F0-9]{32}).zzzzz
+([A-F0-9]{32}).osiris","_Locky_recover_instructions.txt
+_Locky_recover_instructions.bmp
+_HELP_instructions.txt
+_HELP_instructions.bmp
+_HOWDO_text.html
+_WHAT_is.html
+_INSTRUCTION.html
+DesktopOSIRIS.(bmp|htm)
+OSIRIS-[0-9]{4}.htm","Affiliations with Dridex and Necurs botnets
+IOCs: https://ghostbin.com/paste/7jm4j",AES(128),,"08/08/2017 - Diablo6 Locky variant added
+09/28/2017 - Lukitus Locky varinat added",,http://www.bleepingcomputer.com/news/security/new-locky-version-adds-the-zepto-extension-to-encrypted-files/,"WSF variant:
+http://blog.trendmicro.com/trendlabs-security-intelligence/new-locky-ransomware-spotted-in-the-brazilian-underground-market-uses-windows-script-files/
+
+Odin:
+https://nakedsecurity.sophos.com/2016/10/06/odin-ransomware-takes-over-from-zepto-and-locky/
+
+OSIRIS:
+https://www.bleepingcomputer.com/news/security/locky-ransomware-switches-to-egyptian-mythology-with-the-osiris-extension/",https://www.google.de/search?tbm=isch&q=Ransomware+Locky,,
+Lock93,.lock93,,,,,,,,https://twitter.com/malwrhunterteam/status/789882488365678592,,https://www.google.de/search?tbm=isch&q=Ransomware+Lock93,,
+Lomix,,,,Based on the idiotic open-source ransomware called CryptoWire,,,,,https://twitter.com/siri_urz/status/801815087082274816,,,,
+Lortok,.crime,,,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Lortok,,
+LowLevel04,oor.,,,Prepends filenames,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+LowLevel04,,
+M4N1F3STO,,,,"Does not encrypt
+Unlock code=suckmydicknigga",,,,,https://twitter.com/jiriatvirlab/status/808015275367002113,,,,
+Mabouia,,,,OS X ransomware (PoC),,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Mabouia,,
+MacAndChess,,,,Based on HiddenTear,,,,,,,,,
+Magic,.magic,,"DECRYPT_ReadMe1.TXT
+DECRYPT_ReadMe.TXT",Based on EDA2,AES(256),,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Magic,,
+MaktubLocker,,"[a-z]{4,6}",_DECRYPT_INFO_[extension pattern].html,,"AES(256), RSA (2048)",,,,https://blog.malwarebytes.org/threat-analysis/2016/03/maktub-locker-beautiful-and-dangerous/,,https://www.google.de/search?tbm=isch&q=Ransomware+MaktubLocker,,
+Marlboro,.oops,,_HELP_Recover_Files_.html,,XOR,,,https://decrypter.emsisoft.com/marlboro,https://www.bleepingcomputer.com/news/security/marlboro-ransomware-defeated-in-one-day/,,,,
+MarsJoke,".a19
+.ap19",,"!!! Readme For Decrypt !!!.txt
+ReadMeFilesDecrypt!!!.txt",,,,,https://securelist.ru/blog/issledovaniya/29376/polyglot-the-fake-ctb-locker/,https://www.proofpoint.com/us/threat-insight/post/MarsJoke-Ransomware-Mimics-CTB-Locker,,,,
+MasterBuster,,,CreatesReadThisFileImportant.txt,,,,,,https://twitter.com/struppigel/status/791943837874651136,,,,
+Matrix,,,[5 numbers]-MATRIX-README.RTF,,GnuPG,,,,https://twitter.com/rommeljoven17/status/804251901529231360,,,,
+Meister,,,,Targeting French victims,,,,,https://twitter.com/siri_urz/status/840913419024945152,,,,
+Merry X-Mas!,".PEGS1
+.MRCR1
+.RARE1
+.MERRY
+.RMCM1",,"YOUR_FILES_ARE_DEAD.HTA
+MERRY_I_LOVE_YOU_BRUCE.HTA",Written in Delphi,,MRCR,,https://decrypter.emsisoft.com/mrcr,https://www.bleepingcomputer.com/news/security/merry-christmas-ransomware-and-its-dev-comodosecurity-not-bringing-holiday-cheer/,https://www.bleepingcomputer.com/news/security/-merry-christmas-ransomware-now-steals-user-private-data-via-diamondfox-malware/,,,
+Meteoritan,,,"where_are_your_files.txt
+readme_your_files_have_been_encrypted.txt",,,,,,https://twitter.com/malwrhunterteam/status/844614889620561924,,,,
+MIRCOP,Lock.,,,"Prepends files
+Demands 48.48 BTC",AES,Crypt888,,"http://www.bleepingcomputer.com/forums/t/618457/microcop-ransomware-help-support-lock-mircop/
+https://www.avast.com/ransomware-decryption-tools#!",http://blog.trendmicro.com/trendlabs-security-intelligence/instruction-less-ransomware-mircop-channels-guy-fawkes/,http://www.nyxbone.com/malware/Mircop.html,https://www.google.de/search?tbm=isch&q=Ransomware+MIRCOP,,
+MireWare,".fucked
+.fuck",,READ_IT.txt,Based on HiddenTear,AES(256),,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+MireWare,,
+Mischa,,.([a-zA-Z0-9]{4}),"YOUR_FILES_ARE_ENCRYPTED.HTML
+YOUR_FILES_ARE_ENCRYPTED.TXT ","Packaged with Petya
+PDFBewerbungsmappe.exe",,"""Petya's little brother""",,,http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+Mischa,,
+MM Locker,.locked,,READ_IT.txt,Based on EDA2,AES(256),Booyah,,,https://www.proofpoint.com/us/threat-insight/post/ransomware-explosion-continues-cryptflle2-brlock-mm-locker-discovered,,https://www.google.de/search?tbm=isch&q=Ransomware+MM+Locker,,
+Mobef,".KEYZ
+.KEYH0LES",,"4-14-2016-INFECTION.TXT
+IMPORTANT.README",,,"Yakes
+CryptoBit",,,http://nyxbone.com/malware/Mobef.html,http://researchcenter.paloaltonetworks.com/2016/07/unit42-cryptobit-another-ransomware-family-gets-an-update/,http://nyxbone.com/images/articulos/malware/mobef/0.png,,
+Mole,".mole
+.mole02",,INSTRUCTION_FOR_HELPING_FILE_RECOVERY.TXT,,,CryptoMix,,https://www.bleepingcomputer.com/news/security/decryptor-released-for-the-mole02-cryptomix-ransomware-variant/,,,,,
+Monument,,,,"Use the DarkLocker 5 porn screenlocker
+Jigsaw variant",,,,,https://twitter.com/malwrhunterteam/status/844826339186135040,,,,
+MOTD,.enc,,motd.txt,,,,,,https://www.bleepingcomputer.com/forums/t/642409/motd-ransomware-help-support-topics-motdtxt-and-enc-extension/,,,,
+MSN CryptoLocker,,,RESTORE_YOUR_FILES.txt,,,,,,https://twitter.com/struppigel/status/810766686005719040,,,,
+n1n1n1,,,decrypt explanations.html,"Filemaker: ""333333333333""",,,,,https://twitter.com/demonslay335/status/790608484303712256,https://twitter.com/demonslay335/status/831891344897482754,https://www.google.de/search?tbm=isch&q=Ransomware+n1n1n1,,
+N-Splitter,.кибер разветвитель,,,Russian Koolova Variant,,,,,https://twitter.com/JakubKroustek/status/815961663644008448,https://www.youtube.com/watch?v=dAVMgX8Zti4&feature=youtu.be&list=UU_TMZYaLIgjsdJMwurHAi4Q,,,
+Nagini,,,,Looks for C:\Temp\voldemort.horcrux,,,,,http://www.bleepingcomputer.com/news/security/the-nagini-ransomware-sics-voldemort-on-your-files/,,https://www.google.de/search?tbm=isch&q=Ransomware+Nagini,,
+NanoLocker,,,ATTENTION.RTF,"no extension change
+has a GUI","AES (256), RSA",,,http://github.com/Cyberclues/nanolocker-decryptor,,,https://www.google.de/search?tbm=isch&q=Ransomware+NanoLocker,,
+Nemucod,.crypted,,Decrypted.txt,"7zip (a0.exe) variant cannot be decrypted
+Encrypts the first 2048 Bytes","XOR(255)
+7zip",,,"https://decrypter.emsisoft.com/nemucod
+https://github.com/Antelox/NemucodFR
+http://www.bleepingcomputer.com/news/security/decryptor-released-for-the-nemucod-trojans-crypted-ransomware/",https://blog.cisecurity.org/malware-analysis-report-nemucod-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+Nemucod,,
+Netix,,,,,AES(256),RANSOM_NETIX.A,,,http://blog.trendmicro.com/trendlabs-security-intelligence/netflix-scam-delivers-ransomware/,,,,
+NETWALKER,,,,,,,,,,,,,
+Nhtnwcuf,,,"!_RECOVERY_HELP_!.txt
+HELP_ME_PLEASE.txt",Does not encrypt the files / Files are destroyed,,,,,https://twitter.com/demonslay335/status/839221457360195589,,,,
+NMoreira,".maktub
+.__AiraCropEncrypted!
+.aac",,"Recupere seus arquivos. Leia-me!.txt
+Learn how to recover your files.txt",".aac is the extension used by the new version seen in July, 2017",mix of RSA and AES-256,"XRatTeam
+XPan
+AiraCrop",,https://decrypter.emsisoft.com/nmoreira,https://twitter.com/fwosar/status/803682662481174528,,,,
+NoobCrypt,,,,,,,,,https://twitter.com/JakubKroustek/status/757267550346641408,https://www.bleepingcomputer.com/news/security/noobcrypt-ransomware-dev-shows-noobness-by-using-same-password-for-everyone/,https://www.google.de/search?tbm=isch&q=Ransomware+NoobCrypt,,
+Nuke,.nuclear55,,"!!_RECOVERY_instructions_!!.html
+!!_RECOVERY_instructions_!!.txt",,AES,,,,,,,,
+Nullbyte,_nullbyte,,,,,,,https://download.bleepingcomputer.com/demonslay335/NullByteDecrypter.zip,https://www.bleepingcomputer.com/news/security/the-nullbyte-ransomware-pretends-to-be-the-necrobot-pokemon-go-application/,,,,
+Ocelot,,,,Does not encrypt anything,,,,,https://twitter.com/malwrhunterteam/status/817648547231371264,,,,
+ODCODC,.odcodc,C-email-abennaki@india.com-(NOMBRE_ARCHIVO.ext).odcodc,HOW_TO_RESTORE_FILES.txt,,XOR,,,http://download.bleepingcomputer.com/BloodDolly/ODCODCDecoder.zip,http://www.nyxbone.com/malware/odcodc.html,https://twitter.com/PolarToffee/status/813762510302183424,http://www.nyxbone.com/images/articulos/malware/odcodc/1c.png,,
+Offline ransomware,.cbf,email-[params].cbf,"desk.bmp
+desk.jpg
+",email addresses overlap with .777 addresses,,"Vipasana, Cryakl",,https://support.kaspersky.com/viruses/disinfection/8547,http://bartblaze.blogspot.com.co/2016/02/vipasana-ransomware-new-ransom-on-block.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Offline+ransomware,,
+OMG! Ransomware,".LOL!
+.OMG!",,how to get data.txt,,,GPCode,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+OMG!+Ransomware,,
+Onyx,,,,Georgian ransomware,,,,,https://twitter.com/struppigel/status/791557636164558848,,https://www.google.de/search?tbm=isch&q=Ransomware+Onyx,,
+Operation Global III,.EXE,,,Is a file infector (virus),,,,http://news.thewindowsclub.com/operation-global-iii-ransomware-decryption-tool-released-70341/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Operation+Global+III,,
+Owl,dummy_file.encrypted,dummy_file.encrypted.[extension],log.txt,,,CryptoWire,,,https://twitter.com/JakubKroustek/status/842342996775448576,,,,
+OzozaLocker,.Locked,,HOW TO DECRYPT YOU FILES.txt,,,,,https://decrypter.emsisoft.com/ozozalocker,https://twitter.com/malwrhunterteam/status/801503401867673603,,,,
+PadCrypt,.padcrypt,,"IMPORTANT READ ME.txt
+File Decrypt Help.html
+",has a live support chat,,,,,http://www.bleepingcomputer.com/news/security/padcrypt-the-first-ransomware-with-live-support-chat-and-an-uninstaller/,https://twitter.com/malwrhunterteam/status/798141978810732544,https://www.google.de/search?tbm=isch&q=Ransomware+PadCrypt,,
+Padlock Screenlocker,,,,Unlock code is: ajVr/G\RJz0R,,,,,https://twitter.com/BleepinComputer/status/811635075158839296,,,,
+Patcher,.crypt,,README!.txt,Targeting macOS users,,,,https://blog.malwarebytes.com/cybercrime/2017/02/decrypting-after-a-findzip-ransomware-infection/,https://www.bleepingcomputer.com/news/security/new-macos-patcher-ransomware-locks-data-for-good-no-way-to-recover-your-files/,,,,
+PayDay,.sexy,,!!!!!ATENÇÃO!!!!!.html,Based off of Hidden-Tear,,,,,https://twitter.com/BleepinComputer/status/808316635094380544,,,,
+PayDOS,,,,"Batch file
+Passcode: AES1014DW256",,Serpent,,,https://www.bleepingcomputer.com/news/security/ransomware-goes-retro-with-paydos-and-serpent-written-as-batch-files/,,,,
+Paysafecard Generator 2016,.cry_,test.cry_jpg,,,,,,,https://twitter.com/JakubKroustek/status/796083768155078656,,,,
+PClock,,,"Your files are locked !.txt
+Your files are locked !!.txt
+Your files are locked !!!.txt
+Your files are locked !!!!.txt
+%AppData%\WinCL\winclwp.jpg ",CryptoLocker Copycat,XOR,"CryptoLocker clone
+WinPlock",,https://decrypter.emsisoft.com/,https://www.bleepingcomputer.com/news/security/old-cryptolocker-copycat-named-pclock-resurfaces-with-new-attacks/,,https://www.google.de/search?tbm=isch&q=Ransomware+PClock,,
+PetrWrap,,,,,,,,,https://securelist.com/blog/research/77762/petrwrap-the-new-petya-based-ransomware-used-in-targeted-attacks/,,,,
+Petya,.encrypted,,"YOUR_FILES_ARE_ENCRYPTED.TXT
+YOUR_FILES_ARE_ENCRYPTED.HTML
+README.TXT","- overwrites MBR
+- encrypts MFT
+- PDFBewerbungsmappe.exe
+- Symantec & FireEye have confirmed that the initial attack vector is MEDoc (tax account software)",Modified Salsa20,Goldeneye,02.07.2020,"http://www.thewindowsclub.com/petya-ransomware-decrypt-tool-password-generator
+https://www.youtube.com/watch?v=mSqxFjZq_z4","https://blog.malwarebytes.org/threat-analysis/2016/04/petya-ransomware/ 
+https://www.fireeye.com/blog/threat-research/2017/06/petya-ransomware-spreading-via-eternalblue-exploit.html ","https://www.bleepingcomputer.com/news/security/petya-ransomware-returns-with-goldeneye-version-continuing-james-bond-theme/
+https://symantec-blogs.broadcom.com/blogs/threat-intelligence/petya-ransomware-wiper?om_ext_cid=biz_social_NAM_twitter_Asset%2520Type%2520%2520-%2520Blog,Petya",https://www.google.de/search?tbm=isch&q=Ransomware+Petya,,
+Philadelphia,.locked,<file_hash>.locked,,"Coded by ""The_Rainmaker""",AES(256),,,https://decrypter.emsisoft.com/philadelphia,www.bleepingcomputer.com/news/security/the-philadelphia-ransomware-offers-a-mercy-button-for-compassionate-criminals/,,https://www.google.de/search?tbm=isch&q=Ransomware+Philadelphia,,
+Phobos,.phobos,file name[ID-000QQQ.hacker@AOL.com].phobos,,Rebranded Dharma Ransom Note,,,,,https://www.coveware.com/blog/phobos-ransomware-distributed-dharma-crew,https://www.bleepingcomputer.com/forums/t/688649/phobos-ransomware-help-topic-phobos-phoboshta/page-2,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjVjaiqlobgAhUK7mEKHU3IChsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.bankinfosecurity.com%2Fdharma-gang-pushes-phobos-crypto-locking-ransomware-a-11961&psig=AOvVaw1myPcgPH-PrIBZzFQQiF8F&ust=1548410922537711,,
+Phoenix,.R.i.P,,Important!.txt,Based on HiddenTear,,,,,https://twitter.com/BleepinComputer/status/804810315456200704,,,,
+Pickles,.EnCrYpTeD,%random%.EnCrYpTeD,READ_ME_TO_DECRYPT.txt,Python Ransomware,,,,,https://twitter.com/JakubKroustek/status/834821166116327425,,,,
+PizzaCrypts,.id-[victim_id]-maestro@pizzacrypts.info,,,,,,,http://download.bleepingcomputer.com/BloodDolly/JuicyLemonDecoder.zip,,,https://www.google.de/search?tbm=isch&q=Ransomware+PizzaCrypts,,
+PokemonGO,.locked,,,Based on Hidden Tear,AES(256),,,,http://www.nyxbone.com/malware/pokemonGO.html,http://www.bleepingcomputer.com/news/security/pokemongo-ransomware-installs-backdoor-accounts-and-spreads-to-other-drives/,https://www.google.de/search?tbm=isch&q=Ransomware+PokemonGO,,
+Popcorn Time,.filock,,"restore_your_files.html
+restore_your_files.txt",,AES(256),,,,https://www.bleepingcomputer.com/news/security/new-scheme-spread-popcorn-time-ransomware-get-chance-of-free-decryption-key/,,,,
+Polyglot,,,,Immitates CTB-Locker,AES(256),,,https://support.kaspersky.com/8547,https://securelist.com/blog/research/76182/polyglot-the-fake-ctb-locker/,,https://www.google.de/search?tbm=isch&q=Ransomware+Polyglot,,
+Potato,.potato,,"README.png
+README.html",,AES(256),,,,,,,,
+PowerWare,.locky,,,Open-sourced PowerShell,AES(128),PoshCoder,,"https://github.com/pan-unit42/public_tools/blob/master/powerware/powerware_decrypt.py
+https://download.bleepingcomputer.com/demonslay335/PowerLockyDecrypter.zip
+",https://www.carbonblack.com/2016/03/25/threat-alert-powerware-new-ransomware-written-in-powershell-targets-organizations-via-microsoft-word/,http://researchcenter.paloaltonetworks.com/2016/07/unit42-powerware-ransomware-spoofing-locky-malware-family/,https://www.google.de/search?tbm=isch&q=Ransomware+PowerWare,,
+PowerWorm,,,"DECRYPT_INSTRUCTION.html
+looks like CryptoWall 3, but with additional warnings at the bottom that ransom price will go up after some time",no decryption possible,"AES, but throws key away, destroys the files",,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+PowerWorm,,
+Princess Locker,,"[a-z]{4,6},[0-9]","!_HOW_TO_RESTORE_[extension].TXT
+!_HOW_TO_RESTORE_[extension].html
+!_HOW_TO_RESTORE_*id*.txt
+.*id*
+@_USE_TO_FIX_JJnY.txt",,,,,https://hshrzd.wordpress.com/2016/11/17/princess-locker-decryptor/,https://www.bleepingcomputer.com/news/security/introducing-her-royal-highness-the-princess-locker-ransomware/,https://blog.malwarebytes.com/threat-analysis/2016/11/princess-ransomware/,,,
+PRISM,,,,,,,,,http://www.enigmasoftware.com/prismyourcomputerhasbeenlockedransomware-removal/,,https://www.google.de/search?tbm=isch&q=Ransomware+PRISM,,
+Project34,,,ПАРОЛЬ.txt,,,,,,,,,,
+ProposalCrypt,.crypted,,,,,,,https://twitter.com/demonslay335/status/812002960083394560,https://twitter.com/malwrhunterteam/status/811613888705859586,,,,
+Ps2exe,,,,,,,,,https://twitter.com/jiriatvirlab/status/803297700175286273,,,,
+PyL33T,.d4nk,,,Python Ransomware,,,,,https://twitter.com/Jan0fficial/status/834706668466405377,,,,
+R,,,Ransomware.txt,,,,,,https://twitter.com/malwrhunterteam/status/846705481741733892,,,,
+R980,.crypt,,"DECRYPTION INSTRUCTIONS.txt
+rtext.txt",,,,,,https://otx.alienvault.com/pulse/57976b52b900fe01376feb01/,,https://www.google.de/search?tbm=isch&q=Ransomware+R980,,
+RAA encryptor,.locked,,!!!README!!![id].rtf,Possible affiliation with Pony,,RAA,,,https://reaqta.com/2016/06/raa-ransomware-delivering-pony/,http://www.bleepingcomputer.com/news/security/the-new-raa-ransomware-is-created-entirely-using-javascript/,https://www.google.de/search?tbm=isch&q=Ransomware+RAA+encryptor,,
+Rabion,,,,"RaaS
+Copy of Ranion RaaS",,,,,https://twitter.com/CryptoInsane/status/846181140025282561,,,,
+Radamant,".RDM
+.RRK
+.RAD
+.RADAMANT",,YOUR_FILES.url,,AES(256),,,https://decrypter.emsisoft.com/radamant,"http://www.bleepingcomputer.com/news/security/new-radamant-ransomware-kit-adds-rdm-extension-to-encrypted-files/
+",http://www.nyxbone.com/malware/radamant.html,https://www.google.de/search?tbm=isch&q=Ransomware+Radamant,,
+Rakhni,".locked
+.kraken
+.darkness
+.nochance
+.oshit
+.oplata@qq_com
+.relock@qq_com
+.crypto
+.helpdecrypt@ukr.net
+.pizda@qq_com
+.dyatel@qq_com
+_ryp
+.nalog@qq_com
+.chifrator@qq_com
+.gruzin@qq_com
+.troyancoder@qq_com
+.encrypted
+.cry
+.AES256
+.enc
+.hb15",".coderksu@gmail_com_id[0-9]{2,3}
+.crypt@india.com.[\w]{4,12}","<startup folder>\fud.bmp
+<startup folder>\paycrypt.bmp
+<startup folder>\strongcrypt.bmp
+<startup folder>\maxcrypt.bmp
+or a similar named bmp in the startup folder
+%APPDATA%\Roaming\<random name>.bmp is set as wallpaper
+",Files might be partially encrypted,,"Agent.iih 
+Aura 
+Autoit 
+Pletor 
+Rotor 
+Lamer 
+Isda
+Cryptokluchen
+Bandarchor",,https://support.kaspersky.com/us/viruses/disinfection/10556,,,https://www.google.de/search?tbm=isch&q=Ransomware+Rakhni,,
+Ramsomeer,,,,Based on the DUMB ransomware,,,,,,,,,
+Ranion,,,,RaaS service,AES(256),,,,https://www.bleepingcomputer.com/news/security/ranion-ransomware-as-a-service-available-on-the-dark-web-for-educational-purposes/,,,,
+Rannoh,,locked-<original name>.[a-zA-Z]{4},,,,,,https://support.kaspersky.com/viruses/disinfection/8547,,,https://www.google.de/search?tbm=isch&q=Ransomware+Rannoh,,
+RanRan,.zXz,,"VictemKey_0_5
+VictemKey_5_30
+VictemKey_30_100
+VictemKey_100_300
+VictemKey_300_700
+VictemKey_700_2000
+VictemKey_2000_3000
+VictemKey_3000
+zXz.html",,,,,https://github.com/pan-unit42/public_tools/tree/master/ranran_decryption,http://researchcenter.paloaltonetworks.com/2017/03/unit42-targeted-ransomware-attacks-middle-eastern-government-organizations-political-purposes/,https://www.bleepingcomputer.com/news/security/new-ranran-ransomware-uses-encryption-tiers-political-messages/,,,
+Ransoc,,,,Doesn't encrypt user files,,,,,https://www.proofpoint.com/us/threat-insight/post/ransoc-desktop-locking-ransomware-ransacks-local-files-social-media-profiles,https://www.bleepingcomputer.com/news/security/ransoc-ransomware-extorts-users-who-accessed-questionable-content/,,,
+Ransom32,,,,"no extension change, Javascript Ransomware",,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Ransom32,,
+RansomLock,,,,Locks the desktop,Asymmetric 1024 ,,,,https://www.symantec.com/security_response/writeup.jsp?docid=2009-041513-1400-99&tabid=2,,https://www.google.com/search?tbm=isch&q=Ransomware+RansomLock,,
+RansomPlus,.encrypted,,,,,,,,https://twitter.com/jiriatvirlab/status/825411602535088129,,,,
+RarVault,,,RarVault.htm,,,,,,,,,,
+Razy,".razy
+.fear",,,,AES(128),,,,http://www.nyxbone.com/malware/Razy(German).html,http://nyxbone.com/malware/Razy.html,,,
+Rector,".vscrypt
+.infected
+.bloc
+.korrektor",,,,,,,https://support.kaspersky.com/viruses/disinfection/4264,,,https://www.google.de/search?tbm=isch&q=Ransomware+Rector,,
+Red Alert,,,,Based on Hidden Tear,,,,,https://twitter.com/JaromirHorejsi/status/815557601312329728,,,,
+RektLocker,.rekt,,Readme.txt,,AES(256),,,https://support.kaspersky.com/viruses/disinfection/4264,,,https://www.google.de/search?tbm=isch&q=Ransomware+RektLocker,,
+RemindMe,".remind
+.crashed",,decypt_your_files.html ,,,,,,http://www.nyxbone.com/malware/RemindMe.html,,http://i.imgur.com/gV6i5SN.jpg,,
+Revenge,.REVENGE,,# !!!HELP_FILE!!! #.txt,CryptoMix / CryptFile2 Variant,AES(256),,,,https://www.bleepingcomputer.com/news/security/revenge-ransomware-a-cryptomix-variant-being-distributed-by-rig-exploit-kit/,,,,
+Rokku,.rokku,,"README_HOW_TO_UNLOCK.TXT
+README_HOW_TO_UNLOCK.HTML",possibly related with Chimera,Curve25519 + ChaCha,,,,https://blog.malwarebytes.org/threat-analysis/2016/04/rokku-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+Rokku,,
+RoshaLock,,,,Stores your files in a password protected RAR file,,,,,https://twitter.com/siri_urz/status/842452104279134209,,,,
+RozaLocker,.ENC,,,,,,,,https://twitter.com/jiriatvirlab/status/840863070733885440,,,,
+Runsomewere,,,,"Based on HT/EDA2
+Utilizes the Jigsaw Ransomware background",,,,,https://twitter.com/struppigel/status/801812325657440256,,https://www.google.de/search?tbm=isch&q=Ransomware+Runsomewere,,
+RussianRoulette,,,,Variant of the Philadelphia ransomware,,,,,https://twitter.com/struppigel/status/823925410392080385,,https://www.google.de/search?tbm=isch&q=Ransomware+RussianRoulette,,
+SADStory,,,,Variant of CryPy,,,,,https://twitter.com/malwrhunterteam/status/845356853039190016,,,,
+Sage 2.0,.sage,,!Recovery_[3_random_chars].html,Predecessor CryLocker,,,,,https://www.bleepingcomputer.com/news/security/sage-2-0-ransomware-gearing-up-for-possible-greater-distribution/,https://www.govcert.admin.ch/blog/27/sage-2.0-comes-with-ip-generation-algorithm-ipga,https://www.google.de/search?tbm=isch&q=Ransomware+Sage+2.0,,
+Sage 2.2,.sage,,,"Sage 2.2 deletes volume snapshots through vssadmin.exe, disables startup repair, uses process wscript.exe to execute a VBScript, and coordinates the execution of scheduled tasks via schtasks.exe.",,,,,https://malwarebreakdown.com/2017/03/16/sage-2-2-ransomware-from-good-man-gate,https://malwarebreakdown.com/2017/03/10/finding-a-good-man/ ,https://www.google.de/search?tbm=isch&q=Ransomware+Sage+2.2,,
+Samas-Samsam,".encryptedAES
+.encryptedRSA
+.encedRSA
+.justbtcwillhelpyou
+.btcbtcbtc
+.btc-help-you
+.only-we_can-help_you
+.iwanthelpuuu
+.notfoundrans
+.encmywork
+.VforVendetta
+.theworldisyours
+.Whereisyourfiles
+.helpmeencedfiles
+.powerfulldecrypt
+.noproblemwedecfiles
+.weareyourfriends
+.otherinformation
+.letmetrydecfiles
+.encryptedyourfiles
+.weencedufiles
+.iaufkakfhsaraf
+.cifgksaffsfyghd",,"HELP_DECRYPT_YOUR_FILES.html
+###-READ-FOR-HELLPP.html
+000-PLEASE-READ-WE-HELP.html
+CHECK-IT-HELP-FILES.html
+WHERE-YOUR-FILES.html
+HELP-ME-ENCED-FILES.html
+WE-MUST-DEC-FILES.html
+000-No-PROBLEM-WE-DEC-FILES.html
+TRY-READ-ME-TO-DEC.html
+000-IF-YOU-WANT-DEC-FILES.html
+LET-ME-TRY-DEC-FILES.html
+001-READ-FOR-DECRYPT-FILES.html
+READ-READ-READ.html
+IF_WANT_FILES_BACK_PLS_READ.html
+READ_READ_DEC_FILES.html","Targeted attacks
+-Jexboss
+-PSExec
+-Hyena",AES(256) + RSA(2096),"samsam.exe
+MIKOPONI.exe
+RikiRafael.exe
+showmehowto.exe",,https://download.bleepingcomputer.com/demonslay335/SamSamStringDecrypter.zip,http://blog.talosintel.com/2016/03/samsam-ransomware.html,http://www.intelsecurity.com/advanced-threat-research/content/Analysis_SamSa_Ransomware.pdf,https://www.google.de/search?tbm=isch&q=Ransomware+Samas-Samsam,,
+Sanction,.sanction,,DECRYPT_YOUR_FILES.HTML,"Based on HiddenTear, but heavily modified keygen",AES(256) + RSA(2096),,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Sanction,,
+Sanctions,.wallet,,RESTORE_ALL_DATA.html,,AES(256) + RSA(2048),,,,https://www.bleepingcomputer.com/news/security/sanctions-ransomware-makes-fun-of-usa-sanctions-against-russia/,,,,
+Sardoninir,.enc,,,,,,,,https://twitter.com/BleepinComputer/status/835955409953357825,,,,
+Satan,.stn,,HELP_DECRYPT_FILES.html,RaaS,AES(256) + RSA(2096),,,,https://www.bleepingcomputer.com/news/security/new-satan-ransomware-available-through-a-ransomware-as-a-service-/,,,,
+Satana,Sarah_G@ausi.com___,,!satana!.txt,,,,,,https://blog.malwarebytes.com/threat-analysis/2016/06/satana-ransomware/,https://blog.kaspersky.com/satana-ransomware/12558/,https://www.google.de/search?tbm=isch&q=Ransomware+Satana,,
+Saturn,,,"#DECRYPT_MY_FILES#.txt
+#DECRYPT_MY_FILES#.vbs
+#DECRYPT_MY_FILES.BMP","VM aware, deletes volume shadow copies, disables windows startup repair, clears windows backup catalog.",,,02/19/2018,,,,,,
+Scarab,.scarab,,,"Post encryption, text file is dropped w/personal identifier and email to contact as well as a Bitmessage account. Email = suupport[@]protonmail[.]com and Bitmessage = BM-2cTu8prUGDS6XmXqPrZiYXXeqyFw5dXEba",,,,,,,,,
+Scraper,,,,no extension change,,,,http://securelist.com/blog/research/69481/a-flawed-ransomware-encryptor/,,,https://www.google.de/search?tbm=isch&q=Ransomware+Scraper,,
+SerbRansom,.velikasrbija,,,,,,,,https://twitter.com/malwrhunterteam/status/830116190873849856,https://www.bleepingcomputer.com/news/security/ultranationalist-developer-behind-serbransom-ransomware/,,,
+Serpent,.serpent,,"HOW_TO_DECRYPT_YOUR_FILES_[random_3_chars].html
+HOW_TO_DECRYPT_YOUR_FILES_[random_3_chars].txt","Batch file
+Passcode: RSA1014DJW2048",AES(256),PayDOS,,,https://www.bleepingcomputer.com/news/security/ransomware-goes-retro-with-paydos-and-serpent-written-as-batch-files/,https://www.proofpoint.com/us/threat-insight/post/new-serpent-ransomware-targets-danish-speakers,,,
+Serpico,,,,DetoxCrypto Variant,AES,,,,http://www.nyxbone.com/malware/Serpico.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Serpico,,
+Shark,.locked,,Readme.txt,,AES(256),Atom,,,http://www.bleepingcomputer.com/news/security/the-shark-ransomware-project-allows-to-create-your-own-customized-ransomware/,http://www.bleepingcomputer.com/news/security/shark-ransomware-rebrands-as-atom-for-a-fresh-start/,https://www.google.de/search?tbm=isch&q=Ransomware+Shark,,
+ShellLocker,.L0cked,,,,,,,,https://twitter.com/JakubKroustek/status/799388289337671680,,,,
+ShinoLocker,.shino,,,,,,,,https://twitter.com/JakubKroustek/status/760560147131408384,http://www.bleepingcomputer.com/news/security/new-educational-shinolocker-ransomware-project-released/,https://www.google.de/search?tbm=isch&q=Ransomware+ShinoLocker,,
+Shujin,,,文件解密帮助.txt,,,KinCrypt,,,http://www.nyxbone.com/malware/chineseRansom.html,http://blog.trendmicro.com/trendlabs-security-intelligence/chinese-language-ransomware-makes-appearance/,https://www.google.de/search?tbm=isch&q=Ransomware+Shujin,,
+Simple_Encoder,.~,,_RECOVER_INSTRUCTIONS.ini,,AES,,,,http://www.bleepingcomputer.com/news/security/the-shark-ransomware-project-allows-to-create-your-own-customized-ransomware/,,,,
+SkidLocker / Pompous,.locked,,READ_IT.txt,Based on EDA2,AES(256),,,http://www.bleepingcomputer.com/news/security/pompous-ransomware-dev-gets-defeated-by-backdoor/,http://www.nyxbone.com/malware/SkidLocker.html,,https://www.google.de/search?tbm=isch&q=Ransomware+SkidLocker+/+Pompous,,
+SkyName,,,,Based on HiddenTear,,,,,https://twitter.com/malwrhunterteam/status/817079028725190656,,,,
+Smash!,,,,,,,,,https://www.bleepingcomputer.com/news/security/smash-ransomware-is-cute-rather-than-dangerous/,,,,
+Smrss32,.encrypted,,_HOW_TO_Decrypt.bmp,,,,,,,,,,
+Snatch,".abcde
+
+.snatch
+.jimm
+.googl
+.dglnl
+.ohwqg
+.wvtr0
+.hceem","appending .abcde to the original file name (e.g., filename.txt.abcde)","README_ABCDE_FILES.txt
+DECRYPT_ABCDE_DATA.txt",,,,,,https://news.sophos.com/en-us/2019/12/09/snatch-ransomware-reboots-pcs-into-safe-mode-to-bypass-protection/,https://thedfirreport.com/2020/06/21/snatch-ransomware/,,"193.188.22.29 (:443)
+193.188.22.29 (:37462)
+193.188.22.26
+193.188.22.25
+67.211.209.151 (:3306)
+37.59.146.180
+45.147.228.91
+185.61.149.242
+94.140.125.150
+mydatasuperhero.com
+mydatassuperhero.com
+snatch24uldhpwrm.onion
+snatch6brk4nfczg.onion","commands executed during the attack:
+vssadmin delete shadows /all /quiet
+bcdedit.exe /set {current} safeboot minimal
+shutdown.exe /r /f /t 00
+net stop SuperBackupMan"
+SNSLocker,".RSNSlocked
+.RSplited",,READ_Me.txt,Based on EDA2,AES(256),,,,http://nyxbone.com/malware/SNSLocker.html,,http://nyxbone.com/images/articulos/malware/snslocker/16.png,,
+Spora,,,[Infection-ID].HTML,,,,,,https://blog.gdatasoftware.com/2017/01/29442-spora-worm-and-ransomware,http://blog.emsisoft.com/2017/01/10/from-darknet-with-love-meet-spora-ransomware/,,,
+Sport,.sport,,,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Sport,,
+Stampado,.locked,,Random message includes bitcoin wallet address with instructions,"Coded by ""The_Rainmaker""
+Randomly deletes a file every 6hrs up to 96hrs then deletes decryption key",AES(256),,,"https://success.trendmicro.com/portal_kb_articledetail?solutionid=1114221
+http://www.bleepingcomputer.com/news/security/stampado-ransomware-campaign-decrypted-before-it-started/
+https://decrypter.emsisoft.com/stampado",https://cdn.streamable.com/video/mp4/kfh3.mp4,http://blog.trendmicro.com/trendlabs-security-intelligence/the-economics-behind-ransomware-prices/,,,
+Strictor,.locked,,,"Based on EDA2, shows Guy Fawkes mask",AES(256),,,,http://www.nyxbone.com/malware/Strictor.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Strictor,,
+Surprise,".surprise
+.tzu",,DECRYPTION_HOWTO.Notepad,Based on EDA2,AES(256),,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Surprise,,
+Survey,,,ThxForYurTyme.txt,"Still in development, shows FileIce survey",,,,,http://www.bleepingcomputer.com/news/security/in-dev-ransomware-forces-you-do-to-survey-before-unlocking-computer/,,https://www.google.de/search?tbm=isch&q=Ransomware+Survey,,
+SynoLocker,,,,Exploited Synology NAS firmware directly over WAN,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+SynoLocker,,
+SZFLocker,.szf,,,,,,,http://now.avg.com/dont-pay-the-ransom-avg-releases-six-free-decryption-tools-to-retrieve-your-files/,,,https://www.google.de/search?tbm=isch&q=Ransomware+SZFLocker,,
+TeamXrat,.___xratteamLucked,,Como descriptografar os seus arquivos.txt,,AES(256),,,,https://securelist.com/blog/research/76153/teamxrat-brazilian-cybercrime-meets-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+TeamXrat,,
+TeleCrypt,".xcri
+",,"HELP_RESTORE.HTML
+RECOVER[5 random symbols].html
+","Telecrypt will generate a random string to encrypt with that is between 10-20 length and only contain the letters vo,pr,bm,xu,zt,dq.",,"Trojan-Ransom.Win32.Telecrypt
+PDM:Trojan.Win32.Generic",02.07.2020,"https://malwarebytes.app.box.com/s/kkxwgzbpwe7oh59xqfwcz97uk0q05kp3
+https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/
+",https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/,https://securelist.com/blog/research/76558/the-first-cryptor-to-exploit-telegram/,https://www.google.de/search?tbm=isch&q=Ransomware+TeleCrypt,,
+TeslaCrypt 0.x - 2.2.0,".vvv
+.ecc
+.exx
+.ezz
+.abc
+.aaa
+.zzz
+.xyz",,"HELP_TO_SAVE_FILES.txt
+Howto_RESTORE_FILES.html",Factorization,"RSA
+AES
+ECHD",AlphaCrypt,,"http://www.bleepingcomputer.com/forums/t/576600/tesladecoder-released-to-decrypt-exx-ezz-ecc-files-encrypted-by-teslacrypt/
+http://www.talosintel.com/teslacrypt_tool/","https://www.fireeye.com/blog/threat-research/2015/05/teslacrypt_followin.html
+",,https://www.google.de/search?tbm=isch&q=Ransomware+TeslaCrypt+0.x+-+2.2.0,,
+TeslaCrypt 3.0+,".micro
+.xxx
+.ttt
+.mp3",,,4.0+ has no extension,AES(256) + ECHD + SHA1,,,"http://www.bleepingcomputer.com/forums/t/576600/tesladecoder-released-to-decrypt-exx-ezz-ecc-files-encrypted-by-teslacrypt/
+http://www.welivesecurity.com/2016/05/18/eset-releases-decryptor-recent-variants-teslacrypt-ransomware/
+https://blog.kaspersky.com/raknidecryptor-vs-teslacrypt/12169/",,,https://www.google.de/search?tbm=isch&q=Ransomware+TeslaCrypt+3.0+,,
+TeslaCrypt 4.1A,,,"RECOVER<5_chars>.html
+RECOVER<5_chars>.png
+RECOVER<5_chars>.txt
+_how_recover+<random 3 chars>.txt or .html
+help_recover_instructions+<random 3 chars>.BMP or .html or .txt
+_H_e_l_p_RECOVER_INSTRUCTIONS+<random 3 char>.txt, .html or .png
+Recovery+<5 random chars>.txt, .html, e.g., Recovery+gwote.txt
+RESTORE_FILES_<random 5 chars>.TXT , e.g. restore_files_kksli.bmp
+HELP_RESTORE_FILES_<random 5 chars>.TXT , e.g. help_restore_files_kksli.bmp
+HOWTO_RECOVER_FILES_<random 5 chars>.TXT. e.g. howto_recover_files_xeyye.txt
+HELP_TO_SAVE_FILES.txt or .bmp",no special extension,AES(256) + ECHD + SHA1,,,"http://www.bleepingcomputer.com/forums/t/576600/tesladecoder-released-to-decrypt-exx-ezz-ecc-files-encrypted-by-teslacrypt/
+http://www.welivesecurity.com/2016/05/18/eset-releases-decryptor-recent-variants-teslacrypt-ransomware/
+https://blog.kaspersky.com/raknidecryptor-vs-teslacrypt/12169/",https://www.endgame.com/blog/your-package-has-been-successfully-encrypted-teslacrypt-41a-and-malware-attack-chain,https://blog.kaspersky.com/raknidecryptor-vs-teslacrypt/12169/,https://www.google.de/search?tbm=isch&q=Ransomware+TeslaCrypt+4.1A,,
+TeslaCrypt 4.2,,,"RECOVER<5_chars>.html
+RECOVER<5_chars>.png
+RECOVER<5_chars>.txt
+_how_recover+<random 3 chars>.txt or .html
+help_recover_instructions+<random 3 chars>.BMP or .html or .txt
+_H_e_l_p_RECOVER_INSTRUCTIONS+<random 3 char>.txt, .html or .png
+Recovery+<5 random chars>.txt, .html, e.g., Recovery+gwote.txt
+RESTORE_FILES_<random 5 chars>.TXT , e.g. restore_files_kksli.bmp
+HELP_RESTORE_FILES_<random 5 chars>.TXT , e.g. help_restore_files_kksli.bmp
+HOWTO_RECOVER_FILES_<random 5 chars>.TXT. e.g. howto_recover_files_xeyye.txt
+HELP_TO_SAVE_FILES.txt or .bmp",,,,,"http://www.bleepingcomputer.com/forums/t/576600/tesladecoder-released-to-decrypt-exx-ezz-ecc-files-encrypted-by-teslacrypt/
+http://www.welivesecurity.com/2016/05/18/eset-releases-decryptor-recent-variants-teslacrypt-ransomware/
+https://blog.kaspersky.com/raknidecryptor-vs-teslacrypt/12169/",http://www.bleepingcomputer.com/news/security/teslacrypt-4-2-released-with-quite-a-few-modifications/,,https://www.google.de/search?tbm=isch&q=Ransomware+TeslaCrypt+4.2,,
+Thanksgiving,,,,,,,,,https://twitter.com/BleepinComputer/status/801486420368093184,,https://www.google.de/search?tbm=isch&q=Ransomware+Thanksgiving,,
+Threat Finder,,,HELP_DECRYPT.HTML,"Files cannot be decrypted
+Has a GUI",,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Threat+Finder,,
+TorrentLocker,".Encrypted
+.enc",,"HOW_TO_RESTORE_FILES.html
+DECRYPT_INSTRUCTIONS.html
+DESIFROVANI_POKYNY.html
+INSTRUCCIONES_DESCIFRADO.html
+ISTRUZIONI_DECRITTAZIONE.html
+ENTSCHLUSSELN_HINWEISE.html
+ONTSLEUTELINGS_INSTRUCTIES.html
+INSTRUCTIONS_DE_DECRYPTAGE.html
+SIFRE_COZME_TALIMATI.html
+wie_zum_Wiederherstellen_von_Dateien.txt
+","Newer variants not decryptable.
+Only first 2 MB are encrypted
+","AES(256) CBC for files
+RSA(1024) for AES key
+uses LibTomCrypt","Crypt0L0cker
+CryptoFortress 
+Teerac",,http://www.bleepingcomputer.com/forums/t/547708/torrentlocker-ransomware-cracked-and-decrypter-has-been-made/,https://twitter.com/PolarToffee/status/804008236600934403,http://blog.talosintelligence.com/2017/03/crypt0l0cker-torrentlocker-old-dog-new.html,https://www.google.de/search?tbm=isch&q=Ransomware+TorrentLocker,,
+TowerWeb,,,Payment_Instructions.jpg,,,,,,http://www.bleepingcomputer.com/forums/t/618055/towerweb-ransomware-help-support-topic-payment-instructionsjpg/,,https://www.google.de/search?tbm=isch&q=Ransomware+TowerWeb,,
+Toxcrypt,.toxcrypt,,tox.html,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Toxcrypt,,
+Trojan,.braincrypt,,!!! HOW TO DECRYPT FILES !!!.txt,,,BrainCrypt,,https://download.bleepingcomputer.com/demonslay335/BrainCryptDecrypter.zip,https://twitter.com/PolarToffee/status/811249250285842432,,https://www.google.de/search?tbm=isch&q=Ransomware+Trojan,,
+Troldesh,".breaking_bad
+.better_call_saul
+.xtbl
+.da_vinci_code
+.windows10
+.no_more_ransom",,"README<number>.txt 
+nomoreransom_note_original.txt",May download additional malware after encryption,AES(256),"Shade
+XTBL",,https://www.nomoreransom.org/uploads/ShadeDecryptor_how-to_guide.pdf,http://www.nyxbone.com/malware/Troldesh.html,https://www.bleepingcomputer.com/news/security/kelihos-botnet-delivering-shade-troldesh-ransomware-with-no-more-ransom-extension/,https://www.google.de/search?tbm=isch&q=Ransomware+Troldesh,,
+TrueCrypter,.enc,,,,AES(256),,,,http://www.bleepingcomputer.com/news/security/truecrypter-ransomware-accepts-payment-in-bitcoins-or-amazon-gift-card/,,https://www.google.de/search?tbm=isch&q=Ransomware+TrueCrypter,,
+Trump Locker,".TheTrumpLockerf
+.TheTrumpLockerfp",,What happen to my files.txt,,,,,,https://www.bleepingcomputer.com/news/security/new-trump-locker-ransomware-is-a-fraud-just-venuslocker-in-disguise/,,https://www.google.de/search?tbm=isch&q=Ransomware+Trump+Locker,,
+Turkish,.sifreli,,,,,,,,https://twitter.com/struppigel/status/821991600637313024,,https://www.google.de/search?tbm=isch&q=Ransomware+Turkish,,
+Turkish (Fake CTB-Locker),.encrypted,,Beni Oku.txt,keys in '%name%.manifest.xml,,,,,https://twitter.com/JakubKroustek/status/842034887397908480,,https://www.google.de/search?tbm=isch&q=Ransomware+Turkish+(Fake+CTB-Locker),,
+Turkish Ransom,.locked,,DOSYALARINIZA ULAŞMAK İÇİN AÇINIZ.html,,AES(256),,,,http://www.nyxbone.com/malware/turkishRansom.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Turkish+Ransom,,
+UltraLocker,,,,Based on the idiotic open-source ransomware called CryptoWire,AES(256),,,,https://twitter.com/struppigel/status/807161652663742465,https://www.bleepingcomputer.com/news/security/-proof-of-concept-cryptowire-ransomware-spawns-lomix-and-ultralocker-families/,https://www.google.de/search?tbm=isch&q=Ransomware+UltraLocker,,
+UmbreCrypt,,umbrecrypt_ID_[VICTIMID],"README_DECRYPT_UMBRE_ID_[victim_id].jpg
+README_DECRYPT_UMBRE_ID_[victim_id].txt
+default32643264.bmp
+default432643264.jpg
+",CrypBoss Family,AES,,,http://www.thewindowsclub.com/emsisoft-decrypter-hydracrypt-umbrecrypt-ransomware,,,https://www.google.de/search?tbm=isch&q=Ransomware+UmbreCrypt,,
+UnblockUPC,,,Files encrypted.txt,,,,,,https://www.bleepingcomputer.com/forums/t/627582/unblockupc-ransomware-help-support-topic-files-encryptedtxt/,,https://www.google.de/search?tbm=isch&q=Ransomware+UnblockUPC,,
+Ungluk,".H3LL
+.0x0
+.1999",,"READTHISNOW!!!.txt
+Hellothere.txt
+YOUGOTHACKED.TXT","Ransom note instructs to use Bitmessage to get in contact with attacker
+Secretishere.key
+SECRETISHIDINGHEREINSIDE.KEY
+secret.key",AES,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Ungluk,,
+Unlock26,.locked-[XXX],,ReadMe-XXX.html,,,,,,https://www.bleepingcomputer.com/news/security/new-raas-portal-preparing-to-spread-unlock26-ransomware/,,https://www.google.de/search?tbm=isch&q=Ransomware+Unlock26,,
+Unlock92,".CRRRT
+.CCCRRRPPP",,READ_ME_!.txt,,,,,,https://twitter.com/malwrhunterteam/status/839038399944224768,,https://www.google.de/search?tbm=isch&q=Ransomware+Unlock92,,
+Vanguard,,,,GO Ransomware,,,,,https://twitter.com/JAMESWT_MHT/status/834783231476166657,,https://www.google.de/search?tbm=isch&q=Ransomware+Vanguard,,
+VapeLauncher,,,,CryptoWire variant,,,,,https://twitter.com/struppigel/status/839771195830648833,,https://www.google.de/search?tbm=isch&q=Ransomware+VapeLauncher,,
+VaultCrypt,".vault
+.xort
+.trun",,"VAULT.txt
+xort.txt
+trun.txt
+<random>.hta | VAULT.hta",,uses gpg.exe,"CrypVault
+Zlader",,,http://www.nyxbone.com/malware/russianRansom.html,,https://www.google.de/search?tbm=isch&q=Ransomware+VaultCrypt,,
+VBRANSOM 7,.VBRANSOM,,,Does not actually encrypt,,,,,https://twitter.com/BleepinComputer/status/817851339078336513,,https://www.google.de/search?tbm=isch&q=Ransomware+VBRANSOM+7,,
+VenisRansomware,,,,"In dev
+VenisRansom@protonmail.com",,,,,https://twitter.com/Antelox/status/785849412635521024,http://pastebin.com/HuK99Xmj,https://www.google.de/search?tbm=isch&q=Ransomware+VenisRansomware,,
+VenusLocker,".Venusf
+.Venusp",,ReadMe.txt,Based on EDA2,AES(256),,,,https://blog.malwarebytes.com/threat-analysis/2016/08/venus-locker-another-net-ransomware/?utm_source=twitter&utm_medium=social,http://www.nyxbone.com/malware/venusLocker.html,https://www.google.de/search?tbm=isch&q=Ransomware+VenusLocker,,
+Vindows Locker,.vindows,,,,AES,,,"https://malwarebytes.app.box.com/s/gdu18hr17mwqszj3hjw5m3sw84k8hlph
+https://rol.im/VindowsUnlocker.zip",https://twitter.com/JakubKroustek/status/800729944112427008,https://www.bleepingcomputer.com/news/security/vindowslocker-ransomware-mimics-tech-support-scam-not-the-other-way-around/,https://www.google.de/search?tbm=isch&q=Ransomware+Vindows+Locker,,
+Virlock,.exe,,,Polymorphism / Self-replication,,,,,http://www.nyxbone.com/malware/Virlock.html,http://www.welivesecurity.com/2014/12/22/win32virlock-first-self-reproducing-ransomware-also-shape-shifter/,https://www.google.de/search?tbm=isch&q=Ransomware+Virlock,,
+Virus-Encoder,".CrySiS
+.xtbl
+.crypt
+.DHARMA",".id-########.decryptformoney@india.com.xtbl
+.[email_address].DHARMA",How to decrypt your data.txt,,AES(256),CrySiS,,"http://www.welivesecurity.com/2016/11/24/new-decryption-tool-crysis-ransomware/
+http://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",http://www.nyxbone.com/malware/virus-encoder.html,http://blog.trendmicro.com/trendlabs-security-intelligence/crysis-targeting-businesses-in-australia-new-zealand-via-brute-forced-rdps/,https://www.google.de/search?tbm=isch&q=Ransomware+Virus-Encoder,,
+Vortex,.aes,,,,,Ŧl๏tєгค гคภร๏๓ฬคгє,,,https://twitter.com/struppigel/status/839778905091424260,,https://www.google.de/search?tbm=isch&q=Ransomware+Vortex,,
+vxLock,.vxLock,,,,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+vxLock,,
+WannaCry,".wcry
+.wncry
+.WNCRY
+.WCRY",,@Please_Read_Me@.txt,,,"WannaCrypt
+WCry",,,https://twitter.com/struppigel/status/846241982347427840,https://docs.google.com/spreadsheets/d/1XNCCiiwpIfW8y0mzTUdLLVzoW6x64hkHJ29hcQW5deQ/pubhtml#,,,
+WildFire Locker,.wflx,,HOW_TO_UNLOCK_FILES_README_(<ID>).txt,Zyklon variant,,Hades Locker,,,https://labs.opendns.com/2016/07/13/wildfire-ransomware-gaining-momentum/,,https://www.google.de/search?tbm=isch&q=Ransomware+WildFire+Locker,,
+Winnix Cryptor,.wnx,,YOUR FILES ARE ENCRYPTED!.txt,,GPG,,,,https://twitter.com/PolarToffee/status/811940037638111232,,https://www.google.de/search?tbm=isch&q=Ransomware+Winnix+Cryptor,,
+XCrypt,,,Xhelp.jpg,,,,,,https://twitter.com/JakubKroustek/status/825790584971472902,,https://www.google.de/search?tbm=isch&q=Ransomware+XCrypt,,
+XData,.~xdata~,,HOW_CAN_I_DECRYPT_MY_FILES.txt,,,,,,https://www.bleepingcomputer.com/news/security/xdata-ransomware-on-a-rampage-in-ukraine/#.WR-iz69z-MA.twitter,,,,
+Xorist,".EnCiPhErEd
+.73i87A
+.p5tkjw
+.PoAr2w
+.fileiscryptedhard
+.encoderpass
+.zc3791
+.antihacker2017",,HOW TO DECRYPT FILES.TXT,encrypted files will still have the original non-encrypted header of 0x33 bytes length,XOR or TEA,,,"https://support.kaspersky.com/viruses/disinfection/2911
+https://decrypter.emsisoft.com/xorist",,,https://www.google.de/search?tbm=isch&q=Ransomware+Xorist,,
+XRTN ,.xrtn,,,VaultCrypt family,,,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+XRTN+,,
+XYZWare,,,,Based on HiddenTear,,,,,https://twitter.com/malwrhunterteam/status/833636006721122304,,https://www.google.de/search?tbm=isch&q=Ransomware+XYZWare,,
+You Have Been Hacked!!!,.Locked,,,Attempt to steal passwords,,,,,https://twitter.com/malwrhunterteam/status/808280549802418181,,https://www.google.de/search?tbm=isch&q=Ransomware+You+Have+Been+Hacked!!!,,
+YourRansom,.yourransom,,README.txt,,,,,,https://twitter.com/_ddoxer/status/827555507741274113,https://www.bleepingcomputer.com/news/security/yourransom-is-the-latest-in-a-long-line-of-prank-and-educational-ransomware/,https://www.google.de/search?tbm=isch&q=Ransomware+YourRansom,,
+Zcrypt,.zcrypt,,,,,Zcryptor,,,https://blogs.technet.microsoft.com/mmpc/2016/05/26/link-lnk-to-ransom/,,https://www.google.de/search?tbm=isch&q=Ransomware+Zcrypt,,
+Zeta,".code
+.scl
+.rmd",,# HELP_DECRYPT_YOUR_FILES #.TXT,,,CryptoMix,,,https://twitter.com/JakubKroustek/status/804009831518572544,,https://www.google.de/search?tbm=isch&q=Ransomware+Zeta,,
+Zimbra,.crypto,,how.txt,mpritsken@priest.com,,,,,http://www.bleepingcomputer.com/forums/t/617874/zimbra-ransomware-written-in-python-help-and-support-topic-crypto-howtotxt/,,https://www.google.de/search?tbm=isch&q=Ransomware+Zimbra,,
+ZinoCrypt,.ZINO,,ZINO_NOTE.TXT,,,,,,https://twitter.com/malwrhunterteam/status/842781575410597894,,,,
+Zlader / Russian,.vault,,,VaultCrypt family,RSA,"VaultCrypt
+CrypVault",,,http://www.nyxbone.com/malware/russianRansom.html,,https://www.google.de/search?tbm=isch&q=Ransomware+Zlader+/+Russian,,
+Zorro,.zorro,,Take_Seriously (Your saving grace).txt,,,,,,https://twitter.com/BleepinComputer/status/844538370323812353,,,,
+zScreenLocker,,,,,,,,,https://twitter.com/struppigel/status/794077145349967872,,https://www.google.de/search?tbm=isch&q=Ransomware+zScreenLocker,,
+Zyka,.locked,,,,,,,https://download.bleepingcomputer.com/demonslay335/StupidDecrypter.zip,https://twitter.com/GrujaRS/status/826153382557712385,,https://www.google.de/search?tbm=isch&q=Ransomware+Zyka,,
+Zyklon,.zyklon,,,"Hidden Tear family, GNL Locker variant",,GNL Locker,,,,,https://www.google.de/search?tbm=isch&q=Ransomware+Zyklon,,
