@@ -1,4 +1,3 @@
-Ransomware Name,Extensions,Extension Pattern,Ransom Note Filename(s),Comment,Encryption Algorithm,Also known as,Date Added/Modified,Decryptor,Info 1,Info 2,Screenshots,IOCs (Network Based Indicators),IOCs (Host-Based Indicators)
 .CryptoHasYou.,.enc,, YOUR_FILES_ARE_LOCKED.txt,,AES(256),,,,http://www.nyxbone.com/malware/CryptoHasYou.html,,https://www.google.de/search?tbm=isch&q=Ransomware+.CryptoHasYou.,,
 777,.777,"._[timestamp]_$[email]$.777
 e.g. ._14-05-2016-11-59-36_$ninja.gaiver@aol.com$.777",read_this_file.txt,,XOR,Sevleg,,https://decrypter.emsisoft.com/777,,,https://www.google.de/search?tbm=isch&q=Ransomware+777,,
