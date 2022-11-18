@@ -1,10 +1,18 @@
 {
     "fname": "John",
     "lname": "Smith",
-    "sex": "Male"
+    "sex": "Male",
+    "tags": [
+        "user",
+        "read-only"
+    ]
 },
 {
     "fname": "Jane",
     "lname": "Doe",
-    "sex": "Female"
+    "sex": "Female",
+    "tags": [
+        "admin",
+        "read-write"
+    ]
 }
