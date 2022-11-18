@@ -2,17 +2,17 @@
     "fname": "John",
     "lname": "Smith",
     "sex": "Male",
-    "tags": [
-        "user",
-        "read-only"
+    "account": [
+        "type":"user",
+        "permissions":"read-only"
     ]
 },
 {
     "fname": "Jane",
     "lname": "Doe",
     "sex": "Female",
-    "tags": [
-        "admin",
-        "read-write"
+    "account": [
+        "type":"admin",
+        "Permissions":"read-write"
     ]
 }
