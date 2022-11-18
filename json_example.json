@@ -1,19 +1,17 @@
 {
-	"persons": [
-		{
-			"name":"John",
-			"age":30,
-			"sex":"Male"
-		},
-		{
-			"name":"Mary",
-			"age":43,
-			"sex":"Female"
-		},
-		{
-			"name":"Alex",
-			"age":12,
-			"sex":null
-		}
-	]
+	{
+		"name":"John",
+		"age":30,
+		"sex":"Male"
+	},
+	{
+		"name":"Mary",
+		"age":43,
+		"sex":"Female"
+	},
+	{
+		"name":"Alex",
+		"age":12,
+		"sex":null
+	}
 }
