@@ -2,4 +2,9 @@
     "fname": "John",
     "lname": "Smith",
     "sex": "Male"
+},
+{
+    "fname": "Jane",
+    "lname": "Doe",
+    "sex": "Female"
 }
